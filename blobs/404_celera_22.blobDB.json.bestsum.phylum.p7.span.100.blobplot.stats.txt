@@ -1,0 +1,5 @@
+## blobtools v1.0
+## bam0=/home/amir/gasp/mapping/404_celera_22.bam
+# name	colour	count_visible	count_visible_perc	span_visible	span_visible_perc	n50	gc_mean	gc_std	bam0_mean	bam0_std	bam0_read_map	bam0_read_map_p
+all	None	1,317	100.0%	9,848,269	100.0%	11,722	0.38	0.023	32.7	21.6	2,845,369	66.0%
+Ascomycota	#9e0142	1,317	100.0%	9,848,269	100.0%	11,722	0.38	0.023	32.7	21.6	2,845,369	66.0%

@@ -1,0 +1,9 @@
+## blobtools v1.0
+## bam0=/home/amir/gasp/mapping/Sefale_platanus_22.bam
+# name	colour	count_visible	count_visible_perc	span_visible	span_visible_perc	n50	gc_mean	gc_std	bam0_mean	bam0_std	bam0_read_map	bam0_read_map_p
+all	None	10,740	100.0%	11,141,141	100.0%	2,227	0.38	0.053	59.9	189.7	5,451,474	93.8%
+Ascomycota	#e6f598	10,677	100.0%	11,128,401	100.0%	2,229	0.38	0.052	59.2	186.8	5,420,547	93.3%
+no-hit	#d3d3d3	42	100.0%	8,145	100.0%	199	0.27	0.18	125.8	154.3	17,615	0.3%
+undef	#f46d43	17	100.0%	3,767	100.0%	280	0.38	0.063	29.0	18.2	1,392	0.0%
+Firmicutes	#66c2a5	3	100.0%	463	100.0%	173	0.41	0.042	1957.0	780.9	11,865	0.2%
+Arthropoda	#9e0142	1	100.0%	365	100.0%	365	0.41	0.0	15.7	0.0	55	0.0%

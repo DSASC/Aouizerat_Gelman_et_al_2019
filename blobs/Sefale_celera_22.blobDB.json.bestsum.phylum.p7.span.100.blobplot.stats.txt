@@ -1,0 +1,5 @@
+## blobtools v1.0
+## bam0=/home/amir/gasp/mapping/Sefale_celera_22.bam
+# name	colour	count_visible	count_visible_perc	span_visible	span_visible_perc	n50	gc_mean	gc_std	bam0_mean	bam0_std	bam0_read_map	bam0_read_map_p
+all	None	971	100.0%	9,782,105	100.0%	15,623	0.39	0.019	51.8	50.4	4,128,107	72.8%
+Ascomycota	#9e0142	971	100.0%	9,782,105	100.0%	15,623	0.39	0.019	51.8	50.4	4,128,107	72.8%
