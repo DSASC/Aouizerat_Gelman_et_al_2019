@@ -1,0 +1,334 @@
+----------
+424 STDOUT
+----------
+
+----------
+424 STDERR
+----------
+Platanus version: 1.2.4
+/home/amir/platanus assemble -t 14 -k 22 -m 80 -o 424_22 -f temp1.fastq temp2.fastq 
+
+K = 22, saving kmers from reads...
+AVE_READ_LEN=74.2272
+
+KMER_EXTENSION:
+K=22, KMER_COVERAGE=116.823 (>= 9), COVERAGE_CUTOFF=9
+K=32, KMER_COVERAGE=94.8747, COVERAGE_CUTOFF=9, PROB_SPLIT=10e-inf
+K=42, KMER_COVERAGE=72.9268, COVERAGE_CUTOFF=9, PROB_SPLIT=10e-inf
+K=52, KMER_COVERAGE=50.9788, COVERAGE_CUTOFF=9, PROB_SPLIT=10e-11.9725
+K=60, KMER_COVERAGE=33.4205, COVERAGE_CUTOFF=3, PROB_SPLIT=10e-10.7871
+K=62, KMER_COVERAGE=29.0309, COVERAGE_CUTOFF=2, PROB_SPLIT=10e-10.6533
+loading kmers...
+connecting kmers...
+removing branches...
+BRANCH_DELETE_THRESHOLD=0.5
+NUM_CUT=18280
+NUM_CUT=71
+NUM_CUT=0
+TOTAL_NUM_CUT=18351
+mapping reads on de Bruijn Graph nodes...
+TOTAL_MAPPED_READS=30231065
+TOTAL_UNMAPPED_READS=3130147
+TOTAL_SHORT_READS(<22)=0
+NUM_DELETE_NODE(reads are unmapped)=32274
+NUM_CUT_NODE=4729
+extracting reads (containing kmer used in contig assemble)...
+K = 32, loading kmers from contigs...
+K = 32, saving additional kmers(not found in contigs) from reads...
+COVERAGE_CUTOFF = 9
+loading kmers...
+connecting kmers...
+removing branches...
+BRANCH_DELETE_THRESHOLD=0.5
+NUM_CUT=6366
+NUM_CUT=10
+NUM_CUT=0
+TOTAL_NUM_CUT=6376
+mapping reads on de Bruijn Graph nodes...
+TOTAL_MAPPED_READS=30201582
+TOTAL_UNMAPPED_READS=3159630
+TOTAL_SHORT_READS(<32)=0
+NUM_DELETE_NODE(reads are unmapped)=3633
+NUM_CUT_NODE=3900
+extracting reads (containing kmer used in contig assemble)...
+K = 42, loading kmers from contigs...
+K = 42, saving additional kmers(not found in contigs) from reads...
+COVERAGE_CUTOFF = 9
+loading kmers...
+connecting kmers...
+removing branches...
+BRANCH_DELETE_THRESHOLD=0.5
+NUM_CUT=4037
+NUM_CUT=19
+NUM_CUT=0
+TOTAL_NUM_CUT=4056
+mapping reads on de Bruijn Graph nodes...
+TOTAL_MAPPED_READS=29976472
+TOTAL_UNMAPPED_READS=3310819
+TOTAL_SHORT_READS(<42)=73921
+NUM_DELETE_NODE(reads are unmapped)=2195
+NUM_CUT_NODE=3084
+extracting reads (containing kmer used in contig assemble)...
+K = 52, loading kmers from contigs...
+K = 52, saving additional kmers(not found in contigs) from reads...
+COVERAGE_CUTOFF = 9
+loading kmers...
+connecting kmers...
+removing branches...
+BRANCH_DELETE_THRESHOLD=0.5
+NUM_CUT=2701
+NUM_CUT=15
+NUM_CUT=0
+TOTAL_NUM_CUT=2716
+mapping reads on de Bruijn Graph nodes...
+TOTAL_MAPPED_READS=29039776
+TOTAL_UNMAPPED_READS=3872480
+TOTAL_SHORT_READS(<52)=448956
+NUM_DELETE_NODE(reads are unmapped)=1752
+NUM_CUT_NODE=3726
+extracting reads (containing kmer used in contig assemble)...
+K = 60, loading kmers from contigs...
+K = 60, saving additional kmers(not found in contigs) from reads...
+COVERAGE_CUTOFF = 3
+loading kmers...
+connecting kmers...
+removing branches...
+BRANCH_DELETE_THRESHOLD=0.5
+NUM_CUT=10491
+NUM_CUT=64
+NUM_CUT=1
+NUM_CUT=0
+TOTAL_NUM_CUT=10556
+mapping reads on de Bruijn Graph nodes...
+TOTAL_MAPPED_READS=28864508
+TOTAL_UNMAPPED_READS=3735105
+TOTAL_SHORT_READS(<60)=761599
+NUM_DELETE_NODE(reads are unmapped)=5202
+NUM_CUT_NODE=9788
+extracting reads (containing kmer used in contig assemble)...
+K = 62, loading kmers from contigs...
+K = 62, saving additional kmers(not found in contigs) from reads...
+COVERAGE_CUTOFF = 2
+loading kmers...
+connecting kmers...
+removing branches...
+BRANCH_DELETE_THRESHOLD=0.5
+NUM_CUT=11398
+NUM_CUT=97
+NUM_CUT=2
+NUM_CUT=0
+TOTAL_NUM_CUT=11497
+LENGTH_CUTOFF = 124
+COVERAGE_CUTOFF = 2
+removing erroneous nodes...
+NUM_REMOVED_NODES=0
+TOTAL_NUM_REMOVED_NODES=0
+AVE_KMER_COV_REMOVING_BUBBLE=28.9514
+removing bubbles...
+BUBBLE_IDENTITY_THRESHOLD=0.1
+NUM_REMOVED_BUBBLES=2119
+NUM_REMOVED_BUBBLES=2
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=2121
+mapping reads on de Bruijn Graph nodes...
+TOTAL_MAPPED_READS=28698024
+TOTAL_UNMAPPED_READS=3827310
+TOTAL_SHORT_READS(<62)=835878
+NUM_DELETE_NODE(reads are unmapped)=961
+NUM_CUT_NODE=9804
+assemble completed!
+
+#### PROCESS INFORMATION ####
+VmPeak:          65.080 GByte
+VmHWM:            6.938 GByte
+Platanus version: 1.2.4
+/home/amir/platanus scaffold -t 14 -b 424_22_contigBubble.fa -c 424_22_contig.fa -o 424_22 -IP1 temp1.fastq temp2.fastq 
+
+K=32, making hash table...
+K=32, making hash table...
+CONTIG_AVERAGE_COVERAGE = 193.333
+mapping bubbles on contigs...
+[LIBRARY 1]
+mapping reads...
+TOTAL_PAIR = 16680606
+MAPPED_PAIR = 14368300 (0.861378)
+MAPPED_IN_DIFFERENT_CONTIGS = 1419320 (0.085088)
+MAPPED_IN_SAME_CONTIG = 12948980 (0.77629)
+AVERAGE_COVERAGE = 142.074
+estimating insert-size...
+PEAK = 125
+LOWER_LIMIT (permissible range to estimate AVE_INS)= 31
+UPPER_LIMIT (permissible range to estimate AVE_INS)= 219
+AVE_INS = 133
+SD_INS = 40
+[LIBRARY 1]
+AVE_INS = 133, SD_INS = 40
+saving overlaps... (LEN_CUTOFF=80)
+destructing mapper objects...
+[LIBRARY 1]
+AVE_INS = 133, SD_INS = 40
+linking scaffolds (MIN_LINK = 15)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_OVERLAP_CONTIGS=0 (CONTAINED_HETERO)
+TOLERENCE_LEVEL_OF_CONTIG_OVERLAP = 80
+linking scaffolds (MIN_LINK = 15)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=4 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=5
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=5
+removing erroneous edges...
+NUM_SPLIT_LINK (not enough mapped pairs)=78
+NUM_SPLIT_LINK (not enough mapped pairs)=0
+TOTAL_SPLIT_LINK (not enough mapped pairs)=78
+scaffolding...
+linking scaffolds (MIN_LINK = 15)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=0
+NUM_SPLIT_LINK (not originate from heterozygosity)=20 (COVERAGE_THRESHOLD)
+scaffolding...
+linking scaffolds (MIN_LINK = 15)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_OVERLAP_CONTIGS=2 (CONTAINED_HETERO)
+TOLERENCE_LEVEL_OF_CONTIG_OVERLAP = 120
+linking scaffolds (MIN_LINK = 15)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=0
+removing erroneous edges...
+NUM_SPLIT_LINK (not enough mapped pairs)=12
+NUM_SPLIT_LINK (not enough mapped pairs)=0
+TOTAL_SPLIT_LINK (not enough mapped pairs)=12
+scaffolding...
+linking scaffolds (MIN_LINK = 15)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=0
+NUM_SPLIT_LINK (not originate from heterozygosity)=2 (COVERAGE_THRESHOLD)
+scaffolding...
+[LIBRARY 1]
+AVE_INS = 133, SD_INS = 40
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_OVERLAP_CONTIGS=123 (CONTAINED_HETERO)
+TOLERENCE_LEVEL_OF_CONTIG_OVERLAP = 80
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=2 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=1
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=1
+removing erroneous edges...
+NUM_SPLIT_LINK (not enough mapped pairs)=390
+NUM_SPLIT_LINK (not enough mapped pairs)=0
+TOTAL_SPLIT_LINK (not enough mapped pairs)=390
+deleting edges from repeat contigs...
+scaffolding...
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=1
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=1
+NUM_SPLIT_LINK (not originate from heterozygosity)=182 (COVERAGE_THRESHOLD)
+scaffolding...
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_OVERLAP_CONTIGS=99 (CONTAINED_HETERO)
+TOLERENCE_LEVEL_OF_CONTIG_OVERLAP = 120
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=0
+removing erroneous edges...
+NUM_SPLIT_LINK (not enough mapped pairs)=48
+NUM_SPLIT_LINK (not enough mapped pairs)=0
+TOTAL_SPLIT_LINK (not enough mapped pairs)=48
+deleting edges from repeat contigs...
+scaffolding...
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=0
+NUM_SPLIT_LINK (not originate from heterozygosity)=2 (COVERAGE_THRESHOLD)
+scaffolding...
+Library1 PHYSICAL_COVERAGE=127
+SUM_SHORT_LIBRARY_PHYSICAL_COVERAGE=127
+SUM_LONG_LIBRARY_PHYSICAL_COVERAGE=0
+writing scaffold files...
+scaffold completed!
+
+#### PROCESS INFORMATION ####
+VmPeak:           2.409 GByte
+VmHWM:            0.810 GByte
+Platanus version: 1.2.4
+/home/amir/platanus gap_close -t 14 -c 424_22_scaffold.fa -o 424_22 -IP1 temp1.fastq temp2.fastq 
+
+K=32, making hash table...
+[PAIR_LIBRARY 1]
+mapping reads...
+TOTAL_PAIR = 16680606
+MAPPED_IN_SAME_CONTIG = 13187820 (0.790608)
+estimating insert-size...
+PEAK = 125
+LOWER_LIMIT (permissible range to estimate AVE_INS)= 31
+UPPER_LIMIT (permissible range to estimate AVE_INS)= 219
+AVE_INS = 133
+SD_INS = 40
+mapping reads that cover small gaps...
+making hash table of gaps...
+making consensus sequences to close small gaps...
+NUM_GAP=5028
+NUM_CLOSED_GAP=63
+[PAIR_LIBRARY 1]
+saving reads covering gaps...
+loading reads covering gaps...
+assembling localized reads...
+NUM_GAPS = 4965
+NUM_NOT_CLOSED_GAPS (too many reads are mapped comapering to coverage)= 9
+NUM_CLOSED_GAPS_USING_DE_BRUIJN = 1943
+NUM_CLOSED_GAPS_USING_OVERLAP_LAYOUT_CONSENSUS = 846
+TOTAL_NUM_CLOSED_GAPS = 2852
+gap_close completed!!
+
+#### PROCESS INFORMATION ####
+VmPeak:           1.605 GByte
+VmHWM:            0.724 GByte
