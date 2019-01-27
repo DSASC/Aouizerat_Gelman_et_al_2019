@@ -1,6 +1,8 @@
 # Aouizerat_Gelman_et_al_2019
-Analysis for the manuscript "Eukaryotic adaptation to years-long starvation resembles that of bacteria"
-
+Analysis for the manuscript "Eukaryotic adaptation to years-long starvation resembles that of bacteria"  
+  
+[![DOI](https://zenodo.org/badge/167777256.svg)](https://zenodo.org/badge/latestdoi/167777256)
+  
 **Genome assebly and ploidy reconstruction**  
 [Tabulate raw reads](https://nbviewer.jupyter.org/github/szitenberg/Aouizerat_Gelman_et_al_2019/blob/master/script.ipynb#1.-Tabulate-fastq-files)  
 [Trim sequence reads](https://nbviewer.jupyter.org/github/szitenberg/Aouizerat_Gelman_et_al_2019/blob/master/script.ipynb#2.-Trim-reads)  
