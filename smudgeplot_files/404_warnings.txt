@@ -1,0 +1,22 @@
+running	Smudgeplot v0.1.3
+
+######################
+## INPUT PROCESSING ##
+######################
+
+#############
+## SUMMARY ##
+#############
+detecting two smudges at the same positions, not enough data for this number of bins lowering number of bins to 	35
+detecting two smudges at the same positions, not enough data for this number of bins lowering number of bins to 	30
+detecting two smudges at the same positions, not enough data for this number of bins lowering number of bins to 	25
+detecting two smudges at the same positions, not enough data for this number of bins lowering number of bins to 	20
+detecting two smudges at the same positions, not enough data for this number of bins lowering number of bins to 	18
+!! Careful, your coverage filter on the lower end (L = 	10	) is higher than half of the 1n coverage estimate ( 1n / 2 = 	6.34
+If the real 1n coverage is half of your estimate you would not picked it up due to the filtering.
+Consider reruning the analysis with lover L as well (something like (1n / 2) - 5 should do the job)
+Another good way for verificaiton would be to compare it to GenomeScope estimate of haploid coverage
+
+##########
+## PLOT ##
+##########
