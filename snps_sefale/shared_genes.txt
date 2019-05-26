@@ -1,658 +1,1572 @@
-PAC1
-GTR1
-STT4
-STT3
-APL6
-PRP5
-DIA4
-VPS4
-MSS11
-TSC10
-CCA1
-SSK2
-SSK1
-FMT1
-PYC1
-PGI1
-NOB1
-RPT6
-LAS1
-RPT4
-RPT5
-RPT3
-RPT1
-ATP2
-ALD5
-ATP7
-ALD2
-RAM2
-HEM2
-RET1
-SCL1
-EXO70
-BEM1
-NCA2
-PKH1
-HEM1
-UBC4
-LST8
-LIF1
-ACE2
-ERG4
-ERG5
-ERG6
-ERG7
-HMLALPHA2
-ERG1
-ERG2
-NOP1
-ERG9
-DCD1
-VPH1
-HTS1
-EDC3
-ALO1
-RAD2
-MRP4
-VAN1
-BMS1
-EXG1
-YPT1
-ADO1
-TMP1
-SOL1
-ARO1
-ARO4
-RIO1
-MRP17
-CHK1
-CLP1
-SUP45
-CPYA
-ILS1
-MIP1
-DPB4
-LOS1
-ACP1
-NUP133
-PUT2
-PDI1
-PMI1
-CDC8
-CSE4
-TAF11
-MPG1
-QNS1
-CDC4
-CDC5
-CDC6
-GLT1
-SMC3
-SMC2
-MEU1
-SMC6
-APS2
-HOS2
-ARG8
-PEX1
-KGD2
-SET1
-SET2
-KGD1
-MET6
-MEC1
-ALG14
-INO1
-POL3
-POL2
-POL1
-RLP24
-CDC28
-NCS6
-HOM3
-CDC48
-RPN12
-RPN11
-PPH21
-SLN1
-CDC23
-MRL1
-STE11
-STE12
-GAL10
-CYS4
-HSP70
-SAM4
-CHT1
-VPS27
-DED1
-VPS28
-DOC1
-SEC31
-HXT1
-HRD3
-HRD1
-FKS1
-FKS3
-ADE4
-ADE1
-ADE2
-FCY1
-ILV2
-PLB1
-APC1
-GFA1
-PAN6
-GUT1
-HAP2
-MYO2
-STE3
-PRP45
-PRP43
-STE7
-MSY1
-HPA3
-MNN10
-RPN2
-RPN3
-RAD17
-XKIA
-HTB1
-NTE1
-NUP170
-PUP3
-PUP2
-MTR4
-GPB1
-SWD2
-BPL1
-GRR1
-DAK1
-CAF16
-NDK1
-UFD4
-DMC1
-GAA1
-HSP90
-MRPL33
-PAB1
-DOM34
-OPI3
-RIB7
-IDP2
-IDP1
-PIK1
-SSH1
-MKK1
-HAM1
-ARG2
-AFG2
-PDE2
-PDE1
-ALG9
-HULA
-FBP26
-SYF1
-ALG2
-ALG3
-NUP85
-SEC63
-ANP1
-LEA1
-LCB4
-FAB1
-TUB2
-TUB1
-SLC1
-YML6
-EXO1
-FIG4
-SSQ1
-HEM3
-POS5
-MVP1
-PBN1
-TIF1
-CHS1
-CHS3
-MRE11
-PRP16
-KRE28
-MAD3
-SSO2
-STE20
-GUF1
-TPS1
-TEF1
-TPS2
-COX10
-PDX1
-PAP1
-TOA1
-COX17
-AAT1
-GDH2
-RFC5
-RFC4
-LTE1
-TYR1
-SGS1
-APN2
-RPL43
-UTP13
-BET1
-GPI17
-SLX4
-GUT2
-CAR2
-CAR1
-ATM1
-QCR2
-TUP1
-GLK1
-FIP1
-HER2
-ETR1
-KU70
-CKS1
-SFT1
-GCN5
-LYS1
-LYS4
-LYS5
-BUD17
-BUD16
-ODC
-FOL1
-PYK1
-FOL3
-RPL16B
-RAD54
-GDHA
-RAD52
-ISY1
-RAD50
-IDE1
-RAD59
-RIA1
-TUF1
-MSH2
-MSH3
-MSH6
-RPA12
-CYC3
-PHO85
-CYB2
-HBS1
-NOP58
-PRP46
-CRN1
-SKI3
-NOP56
-SUN4
-SKI6
-MEK1
-OST6
-CDC55
-OST3
-GLR1
-AMD1
-SLM5
-LSM6
-CDC10
-PFK1
-LSM3
-PKC1
-CYT1
-MCR1
-ARC18
-CDC14
-HST2
-VPS15
-SIN3
-HOG1
-SEC24
-GUA1
-ERG11
-MSW1
-SKN7
-ACC1
-PRP21
-CUE1
-PRP22
-UTR4
-RSE1
-UTR1
-TKL1
-PLC1
-RPC37
-RIM15
-HXK1
-RIM11
-PMT2
-PKA1
-SHM2
-BOS1
-SHM1
-FAU1
-PSD1
-OCH1
-PET112
-IRA2
-GLO1
-CUL3
-MET17
-IDH2
-IDH1
-ADH1
-RPL15
-CEF1
-RPL12
-RPL13
-THR4
-DPS1
-URA7
-URA5
-URA3
-URA1
-BST1
-DHH1
-MPK1
-RRP4
-RRP6
-RRP7
-STR3
-FRS1
-NOG1
-FRS2
-VPS1
-RPD3
-RMT2
-GPH1
-DOT1
-CDC16
-FBA1
-MSC7
-HMG1
-SIR2
-OGG1
-SEC18
-RAD51
-MSM1
-SEC11
-SEC13
-HIS4
-ATG11
-HIS6
-ATG13
-ATG14
-ATG15
-HIS2
-REV1
-REV3
-MRPL9
-CRM1
-SSN6
-NTH1
-RAT1
-HIS5
-PFK2
-LHS1
-HIS7
-CSL4
-POR1
-TEL1
-HMX1
-TEL2
-FAP7
-SFB3
-ASN1
-MAE1
-YCS4
-RPS4
-RPS0
-RFA1
-ABD1
-ADI1
-GAL7
-GAL1
-FUS1
-DOA4
-GLC3
-LOC1
-ISM1
-RPC82
-CKB1
-CKB2
-LPD1
-DPM1
-RPS26
-RPS22
-RPS23
-RPS20
-RPS21
-GCV2
-SNL1
-TOR1
-SEC4
-SEC9
-HSE1
-MET8
-RHB1
-APA2
-ALG7
-VMA1
-REX3
-VMA6
-VMA9
-BNA5
-BNA4
-BNA1
-NTG2
-CDA2
-MCD4
-PEX19
-GPD1
-SRP102
-RPN8
-PEX10
-PEX13
-PEX14
-NIP1
-PAN3
-PAN2
-DNA2
-RPL28
-PGAB
-PRP31
-CBR1
-RPL20
-ATG3
-ATG1
-ATG6
-ATG7
-ATG4
-SAM2
-DCP2
-DCP1
-NSP1
-ACS2
-RIB5
-HEM12
-HEM14
-MNS1
-MCM7
-MCM6
-MCM5
-MCM3
-MCM2
-GPI14
-GPI16
-BGL2
-RPL2A
-GPI12
-GPI13
-CYC1
-PRS5
-DNF1
-BRR2
-SNU13
-LAT1
-ALE1
-SMP3
-FBP1
-POX1
-UGP1
-PNC1
-TIF32
-AYR1
-PFS2
-LIG4
-ERG20
-ERG27
-ERG25
-ERG24
-ADE13
-SOD1
-PCM1
-KAP95
-ATH1
-RIM20
-SAH1
-MPS1
-YPT52
-NUC1
-RPS7
-TAF12
-SNQ2
-KRS1
-NFS1
-PPM1
-TAF10
-DPB2
-DPB3
-SPO14
-COQ2
-NIT1
-RFA2
-GCS1
-RPL7
-HOP1
-FMN1
-RPL3
-DNM1
-PGS1
-THS1
-MDL2
-MDL1
-CPA2
-CPA1
-TOM40
-TAF13
-UBC12
-MDE1
-GSP1
-NDI1
-MRPL10
-HDA1
-UAP1
-PGM2
-PGM3
-RVB1
-ACO2
-BTN1
-MET2
-MET3
-TAF5
-PEX5
-MET7
-PEX7
-PEX6
-CDC27
-CDC25
-ARG4
-SMC1
-BUR1
-RDH54
-PNG1
-MSN4
-SNZ1
-SMC5
-XYL2
-POT1
-YCK2
-RPL37A
-PMA1
-FAA4
-SYF2
-PPX1
-RPB4
-RPB1
-RPB2
-RPB3
-COR1
-SKB1
-TRP1
-ESA1
-TRP5
-FAS2
-TIF6
-FAS1
-SEC61
-BIO2
-CCS1
-CYR1
-YND1
-BIO4
-YOS9
-SIL1
-VAC8
-IMD1
-SEH1
-SSE1
-GRS1
-FLD1
-ALA1
-FEN1
-NOT5
-NOT4
-UTP4
-RPS17
-RPS16
-RPS15
-SDH1
-RPS19
-THO2
-CAT2
-TAL1
-SRP54
-VMA13
-MLH3
-MLH1
-SEC23
-YSH1
-TRR1
-ERG10
-CYK3
-RLP7
-ORC2
-LOT5
-ORC1
-MNL1
-LEU1
-HTA1
-SNF1
-SUP35
-SNF3
-KAR2
-DIS3
-RPL39
-PDC1
-RPL34
-RPL35
-RPL31
-MVD1
-CWH41
-DAL3
-DAL2
-LCB1
+# This table contains all the functionally-annotated* genes from Tables S1 and S2 that have at least one SNP identified as point-nutation
+# It corresponds with the genes represented in Figure 
+# *functionally-annotated genes are genes with predicted_gene_name in the eggNOG output 
+# Shared genes 751
+# 404 only 366
+# 424 only 447
+# Total 1564
+	404	424	Shared
+	+	+	shared
+PGUG_01939	-	+	424 Only
+FG05586.1	+	+	shared
+GTR1	+	+	shared
+PGUG_05595	+	+	shared
+ITR2	+	+	shared
+MNR2	+	+	shared
+FG05848.1	+	-	404 Only
+PGUG_01934	+	+	shared
+PGUG_03377	-	+	424 Only
+PGUG_04896	+	-	404 Only
+FG01004.1	+	+	shared
+PRP5	+	-	404 Only
+PGUG_01834	-	+	424 Only
+PGUG_04959	-	+	424 Only
+VPS5	-	+	424 Only
+PGUG_03378	+	+	shared
+MSS11	+	-	404 Only
+END3	+	-	404 Only
+REB1	-	+	424 Only
+PGUG_03177	+	+	shared
+FG00972.1	+	+	shared
+SSK2	+	+	shared
+SSK1	+	-	404 Only
+PGUG_00430	+	-	404 Only
+NNT1	+	-	404 Only
+SIP3	+	+	shared
+FG05092.1	-	+	424 Only
+RPT6	-	+	424 Only
+PUT3	+	-	404 Only
+PGUG_01930	+	-	404 Only
+SSY5	+	+	shared
+RPT3	+	-	404 Only
+EPL1	+	+	shared
+RPT1	-	+	424 Only
+ATP2	+	+	shared
+ATP5	-	+	424 Only
+PGUG_01936	+	-	404 Only
+RET1	+	+	shared
+HSV2	+	+	shared
+PGUG_03403	-	+	424 Only
+PGUG_02156	+	+	shared
+PGUG_01783	-	+	424 Only
+NCA2	+	+	shared
+PGUG_01624	+	+	shared
+ATP12	+	+	shared
+PKH1	-	+	424 Only
+PGUG_03302	+	+	shared
+LST4	+	+	shared
+SLD2	+	+	shared
+FG09406.1	+	-	404 Only
+FG07016.1	+	+	shared
+PPG1	-	+	424 Only
+NOP8	+	-	404 Only
+ERG6	-	+	424 Only
+PGUG_03950	-	+	424 Only
+ERG1	-	+	424 Only
+FG10152.1	+	+	shared
+ERG9	+	+	shared
+NOP7	-	+	424 Only
+EDC3	+	-	404 Only
+FLO8	+	-	404 Only
+RRI2	-	+	424 Only
+RRI1	+	+	shared
+PIS1	+	-	404 Only
+PGUG_01711	+	+	shared
+PKC1	+	+	shared
+FG07044.1	+	-	404 Only
+VMA1	+	+	shared
+PGUG_01652	-	+	424 Only
+PGUG_01656	+	-	404 Only
+RIM9	+	+	shared
+FG07257.1	-	+	424 Only
+PGUG_03398	+	+	shared
+FG05766.1	-	+	424 Only
+AIP1	+	+	shared
+FG08935.1	-	+	424 Only
+SOL1	-	+	424 Only
+FG01662.1	+	+	shared
+ARO1	+	-	404 Only
+PGUG_00125	+	-	404 Only
+FG07407.1	+	+	shared
+PGUG_00123	-	+	424 Only
+FG04183.1	+	+	shared
+FG01187.1	+	-	404 Only
+PGUG_01439	+	+	shared
+PGUG_02338	+	-	404 Only
+SPB4	+	+	shared
+RMD9	+	-	404 Only
+TOP2	+	-	404 Only
+GSM1	+	-	404 Only
+CPYA	-	+	424 Only
+UTP20	+	+	shared
+GYP1	+	-	404 Only
+MIP1	-	+	424 Only
+PGUG_02929	+	-	404 Only
+FG01475.1	-	+	424 Only
+YPT35	-	+	424 Only
+PGUG_04554	+	+	shared
+PUT2	-	+	424 Only
+PGUG_02920	+	+	shared
+PDI1	+	+	shared
+FG05244.1	+	-	404 Only
+PGUG_05535	+	+	shared
+PGUG_05534	+	+	shared
+PGUG_00152	+	-	404 Only
+PGUG_00153	+	-	404 Only
+PGUG_01229	+	+	shared
+PGUG_05384	+	+	shared
+QNS1	+	+	shared
+PGUG_05380	-	+	424 Only
+FG00053.1	+	-	404 Only
+FG07995.1	+	+	shared
+PGUG_01543	+	-	404 Only
+FGSG_11966	+	-	404 Only
+GLT1	-	+	424 Only
+SMC3	+	+	shared
+SMC2	-	+	424 Only
+SMC5	+	+	shared
+FG04127.1	+	+	shared
+SMC6	+	-	404 Only
+FG07401.1	+	-	404 Only
+PGUG_03002	+	-	404 Only
+PGUG_05004	+	+	shared
+ROM2	+	+	shared
+PGUG_03578	+	+	shared
+PGUG_05551	-	+	424 Only
+PGUG_04705	+	+	shared
+NUT2	-	+	424 Only
+KGD2	+	-	404 Only
+FG10129.1	+	+	shared
+PGUG_03473	+	+	shared
+ALG12	-	+	424 Only
+IML2	+	+	shared
+PGUG_04319	+	+	shared
+PGUG_05658	-	+	424 Only
+IML1	+	+	shared
+FG09938.1	+	-	404 Only
+PGUG_02393	-	+	424 Only
+RAV1	+	-	404 Only
+PGUG_01312	+	+	shared
+STP1	+	+	shared
+PGUG_04792	+	+	shared
+PGUG_04794	+	-	404 Only
+RPN11	+	+	shared
+PGUG_02727	+	-	404 Only
+FG08537.1	+	-	404 Only
+PGUG_03111	+	-	404 Only
+FG09803.1	-	+	424 Only
+FG05901.1	-	+	424 Only
+PGUG_04173	+	+	shared
+MRL1	-	+	424 Only
+PGUG_04177	+	+	shared
+PGUG_04672	-	+	424 Only
+STE12	+	+	shared
+FG07092.1	-	+	424 Only
+PGUG_04675	+	+	shared
+FG10384.1	+	+	shared
+FG08174.1	+	-	404 Only
+PGUG_04776	-	+	424 Only
+FG09930.1	-	+	424 Only
+TEF3	+	-	404 Only
+PGUG_04385	-	+	424 Only
+FG09412.1	+	+	shared
+PGUG_04570	+	-	404 Only
+DOC1	-	+	424 Only
+ANT1	+	+	shared
+RVS161	-	+	424 Only
+RAI1	+	+	shared
+FG08529.1	-	+	424 Only
+PGUG_01367	+	+	shared
+RBD2	-	+	424 Only
+FKS3	+	-	404 Only
+FG06231.1	-	+	424 Only
+FCY2	+	-	404 Only
+SPC98	-	+	424 Only
+PGUG_02622	+	-	404 Only
+URK1	-	+	424 Only
+MRS2	-	+	424 Only
+FG08283.1	+	-	404 Only
+PGUG_00412	+	+	shared
+MRS6	+	-	404 Only
+PLB1	+	+	shared
+AGC1	-	+	424 Only
+PGUG_03099	+	+	shared
+GFA1	+	-	404 Only
+FG05542.1	+	+	shared
+OAC1	+	-	404 Only
+FAR11	-	+	424 Only
+HAP2	+	+	shared
+FAF1	+	-	404 Only
+PGUG_03718	+	+	shared
+ERO1	-	+	424 Only
+MOT1	+	+	shared
+FG08429.1	-	+	424 Only
+FG05531.1	+	+	shared
+PRP43	+	-	404 Only
+STE7	+	+	shared
+YDJ1	-	+	424 Only
+RPN2	+	-	404 Only
+FG10850.1	+	-	404 Only
+RAD17	+	+	shared
+MEX67	+	-	404 Only
+FG01204.1	-	+	424 Only
+FG03214.1	-	+	424 Only
+GPB1	+	+	shared
+AAT1	+	+	shared
+KEL2	+	+	shared
+PGUG_00703	+	+	shared
+FG01985.1	+	+	shared
+SWD1	+	-	404 Only
+PGUG_00462	+	-	404 Only
+FG06685.1	+	+	shared
+SEF1	-	+	424 Only
+FG01238.1	-	+	424 Only
+KAP122	-	+	424 Only
+FG01244.1	+	-	404 Only
+MRPL33	+	-	404 Only
+FG00713.1	+	+	shared
+PGUG_05318	+	+	shared
+NDK1	+	+	shared
+ZIP2	-	+	424 Only
+FG08158.1	+	+	shared
+FKH2	+	+	shared
+SSZ1	+	+	shared
+FG10041.1	-	+	424 Only
+PAB1	+	+	shared
+OPI3	+	+	shared
+SSH4	+	-	404 Only
+PGUG_01825	+	+	shared
+FG05963.1	-	+	424 Only
+SSH1	-	+	424 Only
+KAE1	-	+	424 Only
+FG06173.1	-	+	424 Only
+FG10250.1	+	+	shared
+ATG9	+	+	shared
+NUP170	+	-	404 Only
+FG03210.1	+	+	shared
+FGSG_10228	+	-	404 Only
+FG01508.1	+	-	404 Only
+FG01066.1	-	+	424 Only
+BOI2	-	+	424 Only
+FGSG_02593	+	-	404 Only
+HULA	-	+	424 Only
+PGUG_01793	-	+	424 Only
+FG09920.1	+	+	shared
+TIM8	+	+	shared
+PRO3	-	+	424 Only
+SEC61	+	+	shared
+SEC62	+	-	404 Only
+SEC63	+	-	404 Only
+LCB1	-	+	424 Only
+PGUG_02145	+	+	shared
+FG00892.1	+	-	404 Only
+LCB4	+	-	404 Only
+PGUG_01689	-	+	424 Only
+RPB1	+	+	shared
+PGUG_02223	+	+	shared
+FG04292.1	+	+	shared
+PGM2	+	+	shared
+FG05973.1	+	-	404 Only
+PGUG_03312	-	+	424 Only
+UGP1	-	+	424 Only
+PGUG_03316	+	+	shared
+TOF1	+	+	shared
+PGUG_00689	+	+	shared
+FG00751.1	+	-	404 Only
+FG05277.1	+	-	404 Only
+SSQ1	+	+	shared
+FG01333.1	-	+	424 Only
+MRE11	+	+	shared
+KRE28	-	+	424 Only
+DSE3	+	-	404 Only
+ACE2	+	-	404 Only
+PGUG_03826	+	-	404 Only
+PGUG_02034	+	+	shared
+FG10927.1	+	-	404 Only
+FG02531.1	+	+	shared
+PGUG_01765	-	+	424 Only
+PGUG_02135	+	+	shared
+FG06156.1	-	+	424 Only
+PGUG_03813	+	+	shared
+TPS2	+	-	404 Only
+EIS1	+	-	404 Only
+ISN1	+	-	404 Only
+COX10	+	+	shared
+COX11	+	-	404 Only
+PGUG_04846	-	+	424 Only
+CRED	+	-	404 Only
+TOA1	+	+	shared
+PGUG_04074	+	+	shared
+ERG4	+	-	404 Only
+ARN1	+	+	shared
+FG02960.1	-	+	424 Only
+FG06822.1	+	+	shared
+FG02656.1	+	+	shared
+FG06158.1	-	+	424 Only
+LTE1	+	+	shared
+RSM22	-	+	424 Only
+FG03311.1	+	-	404 Only
+APN2	+	+	shared
+SPA2	+	+	shared
+FG05249.1	-	+	424 Only
+RTC1	+	+	shared
+RPL43	+	+	shared
+TRM61	-	+	424 Only
+PGUG_01423	-	+	424 Only
+FG11246.1	+	+	shared
+SAP190	+	+	shared
+TFC3	+	-	404 Only
+FG00947.1	+	+	shared
+SLX4	-	+	424 Only
+AREA	+	+	shared
+UTP13	+	+	shared
+UTP10	+	-	404 Only
+CYC3	+	-	404 Only
+FG01111.1	-	+	424 Only
+PUS1	-	+	424 Only
+PGUG_02916	+	-	404 Only
+PGUG_04019	+	+	shared
+NOP4	+	-	404 Only
+FG06722.1	+	+	shared
+PGUG_00140	+	+	shared
+FGSG_02564	+	-	404 Only
+GCN5	-	+	424 Only
+SDA1	-	+	424 Only
+PGUG_02614	+	+	shared
+FG10355.1	-	+	424 Only
+YIH1	+	+	shared
+BUD17	-	+	424 Only
+FOL1	+	+	shared
+FOL3	+	+	shared
+SDS23	+	+	shared
+TAD3	+	+	shared
+OCT1	-	+	424 Only
+FG08922.1	+	-	404 Only
+ISY1	+	-	404 Only
+CLB2	+	-	404 Only
+IDE1	+	+	shared
+PGUG_03541	+	-	404 Only
+PGUG_04309	+	+	shared
+FG01258.1	+	+	shared
+PGUG_04306	-	+	424 Only
+FG07059.1	+	+	shared
+RPA12	+	+	shared
+PGUG_05644	+	+	shared
+PGUG_05646	+	+	shared
+PGUG_04066	+	+	shared
+PRS5	+	-	404 Only
+FG08680.1	-	+	424 Only
+FG07114.1	+	-	404 Only
+FG02482.1	+	+	shared
+SKI3	+	+	shared
+NOP56	+	-	404 Only
+PGUG_05493	+	+	shared
+FG07476.1	-	+	424 Only
+PGUG_04780	+	-	404 Only
+RPO41	-	+	424 Only
+FG05326.1	+	+	shared
+KRI1	-	+	424 Only
+FG07428.1	+	-	404 Only
+PGUG_02707	+	+	shared
+PGUG_04164	+	+	shared
+PGUG_04161	+	+	shared
+PGUG_02702	-	+	424 Only
+FGSG_05695	+	+	shared
+FCJ1	+	+	shared
+PGUG_00141	-	+	424 Only
+DPH2	+	+	shared
+DPH3	+	+	shared
+PGUG_03493	+	-	404 Only
+GCN1	+	+	shared
+FG10167.1	+	-	404 Only
+SIN3	+	+	shared
+VPS10	+	+	shared
+FG01090.1	+	+	shared
+PGUG_01925	+	+	shared
+GUA1	+	+	shared
+CCH1	+	+	shared
+PGUG_01371	+	+	shared
+GNT1	+	-	404 Only
+SKN7	+	+	shared
+PGUG_01377	+	+	shared
+PRP24	+	-	404 Only
+FG05453.1	+	+	shared
+FET4	+	+	shared
+PRP21	+	+	shared
+PRP22	+	-	404 Only
+UTR4	-	+	424 Only
+RSE1	+	+	shared
+FG10060.1	-	+	424 Only
+CCT7	+	-	404 Only
+PLC1	+	+	shared
+PGUG_03729	-	+	424 Only
+FG00333.1	+	+	shared
+PGUG_02637	-	+	424 Only
+PGUG_05824	+	+	shared
+SEN1	+	+	shared
+FG01842.1	+	+	shared
+PGUG_05398	-	+	424 Only
+FG05845.1	+	-	404 Only
+PGUG_03645	+	+	shared
+PGUG_01304	+	-	404 Only
+PGUG_04898	+	+	shared
+LYS4	+	-	404 Only
+PGUG_03649	-	+	424 Only
+FG02781.1	+	+	shared
+LYS5	-	+	424 Only
+FG01429.1	+	+	shared
+OCH1	+	+	shared
+CLN1	+	-	404 Only
+IRA2	+	-	404 Only
+BBP	+	-	404 Only
+MTC6	-	+	424 Only
+FG07162.1	+	+	shared
+CUL3	+	+	shared
+CYM1	+	+	shared
+FG02105.1	+	-	404 Only
+FG04886.1	-	+	424 Only
+ALE1	+	-	404 Only
+FG06999.1	+	-	404 Only
+CPR6	-	+	424 Only
+DYN3	+	-	404 Only
+THR4	-	+	424 Only
+GPA2	+	+	shared
+AMS1	-	+	424 Only
+PGUG_00678	+	+	shared
+DPS1	+	+	shared
+FG01629.1	+	+	shared
+ADO1	+	+	shared
+PGUG_02689	+	-	404 Only
+PGUG_03037	-	+	424 Only
+GLG2	+	+	shared
+IRS4	-	+	424 Only
+ENT3	+	+	shared
+SRC1	-	+	424 Only
+FG02562.1	+	-	404 Only
+STL1	+	+	shared
+PGUG_03396	+	+	shared
+FG08579.1	+	-	404 Only
+AQUAPORIN	+	-	404 Only
+RRP4	+	+	shared
+RRP6	+	-	404 Only
+MRPL22	-	+	424 Only
+PGUG_01955	+	-	404 Only
+RRP9	+	+	shared
+FG04951.1	+	+	shared
+FG10772.1	-	+	424 Only
+PGUG_01950	-	+	424 Only
+TAD2	+	+	shared
+GPH1	+	-	404 Only
+PGUG_02458	+	+	shared
+RED1	-	+	424 Only
+PGUG_00604	+	+	shared
+IKS1	-	+	424 Only
+MSC3	+	+	shared
+FG06655.1	+	+	shared
+PGUG_02455	-	+	424 Only
+PGUG_02456	+	+	shared
+SIR2	+	-	404 Only
+SIR3	+	+	shared
+FG09991.1	+	-	404 Only
+FG02439.1	+	+	shared
+UBR1	-	+	424 Only
+MSM1	+	+	shared
+SEC11	+	-	404 Only
+SEC10	-	+	424 Only
+SEC13	-	+	424 Only
+SEC12	-	+	424 Only
+NAR1	-	+	424 Only
+SEC17	-	+	424 Only
+SEC16	-	+	424 Only
+HIS4	+	+	shared
+MRPL4	+	+	shared
+HIS7	-	+	424 Only
+PGUG_02238	+	+	shared
+FG02478.1	+	-	404 Only
+REV1	-	+	424 Only
+REV3	+	-	404 Only
+PGUG_02236	-	+	424 Only
+FG09484.1	+	-	404 Only
+SSN6	+	+	shared
+FG02573.1	-	+	424 Only
+SSN2	+	+	shared
+PGUG_03328	+	-	404 Only
+FG10795.1	+	-	404 Only
+YMC2	-	+	424 Only
+FMP52	+	-	404 Only
+FG07132.1	+	-	404 Only
+PGUG_01530	+	+	shared
+TUF1	+	-	404 Only
+YCS4	+	-	404 Only
+FG04458.1	-	+	424 Only
+PGUG_04534	+	-	404 Only
+NAM9	-	+	424 Only
+GPA1	+	+	shared
+FG08677.1	+	+	shared
+PRE3	-	+	424 Only
+PGUG_01774	+	+	shared
+RIO1	+	-	404 Only
+LCD1	-	+	424 Only
+FG01445.1	+	+	shared
+PGUG_02280	+	+	shared
+PGUG_01672	+	+	shared
+PGUG_03803	+	+	shared
+FHL1	-	+	424 Only
+FG00866.1	+	+	shared
+FG06151.1	+	+	shared
+GTF1	+	-	404 Only
+FG01016.1	+	+	shared
+RRB1	+	-	404 Only
+PHB1	+	+	shared
+FG07347.1	+	+	shared
+PGUG_01692	+	+	shared
+GCV2	+	+	shared
+TOR1	+	+	shared
+PGUG_04305	+	-	404 Only
+HSE1	-	+	424 Only
+TRM13	+	+	shared
+PGUG_04304	+	+	shared
+APA2	+	+	shared
+RGT1	-	+	424 Only
+FG09027.1	+	+	shared
+FG10105.1	+	+	shared
+REX4	+	+	shared
+REX3	+	-	404 Only
+ZRT1	+	+	shared
+FG02757.1	+	-	404 Only
+NTG2	+	-	404 Only
+FG05697.1	+	+	shared
+GUP1	+	+	shared
+PGUG_05007	+	+	shared
+PGUG_00074	+	-	404 Only
+ECM4	+	+	shared
+FG04386.1	+	+	shared
+FG07086.1	+	-	404 Only
+ECM1	+	+	shared
+PGUG_00175	-	+	424 Only
+PGUG_00177	+	-	404 Only
+PGUG_05411	+	+	shared
+PEX10	+	-	404 Only
+PEX13	+	-	404 Only
+ATG27	+	-	404 Only
+PEX14	+	-	404 Only
+NIP1	-	+	424 Only
+MID1	-	+	424 Only
+DNA2	+	+	shared
+DIT1	-	+	424 Only
+FG08982.1	+	+	shared
+PGAB	+	+	shared
+PGUG_01484	-	+	424 Only
+FG05054.1	+	-	404 Only
+ATG2	+	+	shared
+TFB3	-	+	424 Only
+FG09510.1	+	+	shared
+ATG7	+	+	shared
+ATG4	-	+	424 Only
+BPL1	+	-	404 Only
+PGUG_05311	-	+	424 Only
+FG09081.1	-	+	424 Only
+FG01661.1	+	+	shared
+STU2	-	+	424 Only
+DCP1	+	+	shared
+FAB1	+	+	shared
+PGUG_04378	+	-	404 Only
+FG09981.1	+	-	404 Only
+FG00706.1	+	-	404 Only
+PGUG_04279	+	+	shared
+FG09689.1	+	+	shared
+GPI16	+	+	shared
+GPI17	+	+	shared
+GPI12	+	+	shared
+GPI13	-	+	424 Only
+GCD7	+	-	404 Only
+PGUG_05487	+	-	404 Only
+ARC1	+	-	404 Only
+ATH1	+	+	shared
+DNF1	+	+	shared
+TMP1	+	+	shared
+FG06697.1	+	+	shared
+FG09663.1	+	+	shared
+PGUG_04192	-	+	424 Only
+FG10269.1	-	+	424 Only
+FG02743.1	+	+	shared
+PGUG_04195	-	+	424 Only
+PGUG_00888	-	+	424 Only
+FG09681.1	+	+	shared
+PGUG_03219	-	+	424 Only
+PGUG_04203	+	+	shared
+PGUG_04200	+	+	shared
+FG07120.1	+	+	shared
+PGUG_04206	+	+	shared
+FBP1	+	+	shared
+FG05900.1	+	+	shared
+TIF35	+	-	404 Only
+PGUG_04755	+	+	shared
+PGUG_04209	+	+	shared
+FG08463.1	+	+	shared
+PGUG_04751	+	+	shared
+OGG1	+	+	shared
+FGSG_07382	+	+	shared
+IBD2	+	+	shared
+NUP133	+	+	shared
+ATG21	+	-	404 Only
+PGUG_00355	+	-	404 Only
+ATG23	+	+	shared
+FG08532.1	+	+	shared
+GAS1	+	-	404 Only
+CLF1	+	-	404 Only
+ATG26	+	+	shared
+FG05522.1	+	+	shared
+ERG27	-	+	424 Only
+PFA3	+	+	shared
+ERG24	-	+	424 Only
+ALB1	+	-	404 Only
+PGUG_01341	+	+	shared
+FG01874.1	-	+	424 Only
+ASK1	-	+	424 Only
+GRE2	+	+	shared
+FG08693.1	+	-	404 Only
+COG6	+	+	shared
+FG06805.1	-	+	424 Only
+PGUG_02605	-	+	424 Only
+RPC25	-	+	424 Only
+PGUG_03735	+	+	shared
+FG05571.1	+	+	shared
+FG00960.1	+	+	shared
+SFB3	+	-	404 Only
+TAF13	+	+	shared
+PGUG_00315	+	-	404 Only
+TAF12	+	-	404 Only
+FG05173.1	+	-	404 Only
+SNQ2	+	+	shared
+FG04033.1	+	+	shared
+DRS1	-	+	424 Only
+OST3	-	+	424 Only
+DPB4	+	-	404 Only
+SAM4	-	+	424 Only
+DPB3	-	+	424 Only
+SPO14	+	+	shared
+AMD1	-	+	424 Only
+SNX41	+	+	shared
+FG01886.1	+	+	shared
+KRS1	+	-	404 Only
+FG08485.1	+	+	shared
+RFA2	-	+	424 Only
+RFA1	+	-	404 Only
+ESA1	+	-	404 Only
+FG10267.1	+	+	shared
+FG01332.1	+	-	404 Only
+PGUG_00769	+	+	shared
+FG05551.1	+	-	404 Only
+PGUG_02515	+	-	404 Only
+PGUG_00317	+	+	shared
+PGUG_02692	+	+	shared
+PGUG_00447	+	-	404 Only
+PGUG_02696	-	+	424 Only
+PGUG_05887	+	+	shared
+PGUG_00981	+	-	404 Only
+PGUG_05885	+	-	404 Only
+PGUG_02698	+	+	shared
+CAP1	+	-	404 Only
+PGUG_05881	+	+	shared
+OAF3	-	+	424 Only
+FG06016.1	+	+	shared
+SRB8	+	+	shared
+SRB4	-	+	424 Only
+SRB6	+	+	shared
+NDI1	+	+	shared
+LSM6	+	+	shared
+PGUG_01960	+	-	404 Only
+PGUG_01964	+	+	shared
+PGUG_01966	+	+	shared
+HDA3	+	-	404 Only
+NGR1	-	+	424 Only
+UAP1	-	+	424 Only
+TIM54	+	-	404 Only
+FYV7	+	-	404 Only
+FYV8	+	+	shared
+ACO2	+	+	shared
+PEX1	+	+	shared
+YAE1	+	-	404 Only
+INO1	+	+	shared
+PEX7	+	-	404 Only
+PEX6	+	+	shared
+SWC7	+	+	shared
+PGUG_00618	+	+	shared
+SWC5	-	+	424 Only
+FG11241.1	+	+	shared
+SEY1	+	-	404 Only
+SUR1	-	+	424 Only
+MSN4	+	+	shared
+CAS42	-	+	424 Only
+HSP90	+	+	shared
+POT1	-	+	424 Only
+YCK2	+	+	shared
+CBC2	+	-	404 Only
+PGUG_02201	+	+	shared
+MET7	+	+	shared
+HIR3	+	+	shared
+AIM44	+	+	shared
+PMA1	+	+	shared
+FG00841.1	-	+	424 Only
+FG09399.1	+	+	shared
+FG07516.1	+	+	shared
+PPX1	+	+	shared
+FG09732.1	+	-	404 Only
+RPB4	-	+	424 Only
+PRT1	-	+	424 Only
+SSO2	+	+	shared
+PGUG_04914	-	+	424 Only
+FG06379.1	+	+	shared
+SLA2	-	+	424 Only
+HOS4	-	+	424 Only
+FG09549.1	+	+	shared
+ECM14	+	+	shared
+ERG20	+	+	shared
+COR1	+	+	shared
+MSS51	+	+	shared
+PGUG_00908	+	+	shared
+CSM3	+	+	shared
+BFR2	+	-	404 Only
+BUD6	+	+	shared
+FG05141.1	-	+	424 Only
+BUD4	+	-	404 Only
+RRD1	-	+	424 Only
+RRD2	-	+	424 Only
+INO80	+	+	shared
+BTGE	+	-	404 Only
+CYR1	+	+	shared
+ATP17	+	-	404 Only
+PGUG_02056	+	+	shared
+EMI5	-	+	424 Only
+PGUG_01600	+	+	shared
+ADH1	+	+	shared
+CBF1	+	-	404 Only
+PGUG_05284	-	+	424 Only
+PGUG_01145	+	+	shared
+PRM1	-	+	424 Only
+FG04470.1	+	-	404 Only
+FG01645.1	+	+	shared
+UGO1	+	+	shared
+PGUG_05242	-	+	424 Only
+FG07288.1	+	-	404 Only
+RPS14	+	-	404 Only
+SDH1	+	+	shared
+FG01890.1	+	+	shared
+RPS19	-	+	424 Only
+FG00817.1	+	-	404 Only
+FG05627.1	+	-	404 Only
+MALTASE	-	+	424 Only
+MDL2	+	+	shared
+RIX1	+	+	shared
+PGUG_01409	-	+	424 Only
+SEC20	-	+	424 Only
+AVL9	+	+	shared
+LOC1	+	+	shared
+MLH3	+	-	404 Only
+FG05748.1	-	+	424 Only
+SPC1	+	-	404 Only
+NAT3	+	+	shared
+HOG1	+	+	shared
+PGUG_02187	+	+	shared
+YSH1	+	+	shared
+PGUG_02184	+	+	shared
+PGUG_03900	-	+	424 Only
+PGUG_05560	-	+	424 Only
+FG06858.1	+	-	404 Only
+PGUG_05409	+	+	shared
+VAB2	+	-	404 Only
+PGUG_03022	+	+	shared
+FG07944.1	-	+	424 Only
+PGUG_05400	+	+	shared
+PGUG_05407	+	+	shared
+PGUG_05405	+	+	shared
+PGUG_00164	-	+	424 Only
+PGUG_01271	-	+	424 Only
+LEU2	-	+	424 Only
+LEU1	+	+	shared
+FG00667.1	-	+	424 Only
+FG08586.1	+	+	shared
+CDC14	+	+	shared
+UBP2	+	-	404 Only
+FG07964.1	+	+	shared
+PDC1	+	+	shared
+SET1	+	+	shared
+FG08757.1	-	+	424 Only
+PGUG_03741	-	+	424 Only
+SLT11	-	+	424 Only
+STT4	+	+	shared
+FG06339.1	+	-	404 Only
+PGUG_04363	-	+	424 Only
+PGUG_05106	+	+	shared
+PGUG_04046	-	+	424 Only
+PGUG_04047	-	+	424 Only
+FGSG_08701	+	+	shared
+FET3	+	+	shared
+CLA4	+	+	shared
+FG02071.1	+	+	shared
+CDC73	+	+	shared
+CCA1	+	+	shared
+ALG14	+	-	404 Only
+DRE2	+	+	shared
+FG04272.1	+	+	shared
+GYP5	+	+	shared
+FG04582.1	+	+	shared
+GYP7	-	+	424 Only
+PGI1	+	+	shared
+PAN3	-	+	424 Only
+PGUG_02878	-	+	424 Only
+PDR1	+	+	shared
+DUS3	+	+	shared
+FG10941.1	-	+	424 Only
+NPR1	+	+	shared
+NPR2	-	+	424 Only
+FG07391.1	+	+	shared
+FG00688.1	-	+	424 Only
+HXT1	+	+	shared
+ALD5	+	+	shared
+FG05728.1	-	+	424 Only
+RAM1	-	+	424 Only
+RAM2	+	-	404 Only
+FG00364.1	-	+	424 Only
+FG04151.1	+	-	404 Only
+PGUG_00582	-	+	424 Only
+ARP8	+	+	shared
+ARP7	-	+	424 Only
+ARP6	+	+	shared
+ARP3	+	+	shared
+ARP2	+	-	404 Only
+PGUG_05588	+	+	shared
+FG05653.1	+	+	shared
+FG02507.1	+	-	404 Only
+ATG32	-	+	424 Only
+ATG33	-	+	424 Only
+VID28	+	+	shared
+PGUG_05585	-	+	424 Only
+PGUG_04698	+	+	shared
+HXK1	+	+	shared
+RAX1	-	+	424 Only
+SEH1	+	+	shared
+PGUG_02592	+	+	shared
+PGUG_02613	+	+	shared
+VPH2	+	-	404 Only
+DCD1	+	+	shared
+NHX1	+	+	shared
+FG09245.1	+	+	shared
+RAD5	+	+	shared
+RAD2	-	+	424 Only
+SOG2	+	-	404 Only
+URH1	+	-	404 Only
+FG01535.1	-	+	424 Only
+MRP4	-	+	424 Only
+VAN1	+	+	shared
+CCT8	+	-	404 Only
+BMS1	+	+	shared
+PGUG_03620	+	-	404 Only
+CCT2	-	+	424 Only
+CCT3	+	+	shared
+STE50	-	+	424 Only
+FG04264.1	-	+	424 Only
+CCT4	+	-	404 Only
+KNS1	-	+	424 Only
+PGUG_02932	+	+	shared
+EXG1	+	-	404 Only
+STB3	+	-	404 Only
+FG02675.1	+	+	shared
+ABF1	+	-	404 Only
+HDA1	+	-	404 Only
+RPM2	+	+	shared
+FG08570.1	-	+	424 Only
+BRF1	+	+	shared
+FG06640.1	+	-	404 Only
+PEP7	+	+	shared
+CET1	-	+	424 Only
+SWI6	+	-	404 Only
+USB1	+	-	404 Only
+PGUG_03058	-	+	424 Only
+GPX1	+	-	404 Only
+MCM6	-	+	424 Only
+FG00336.1	-	+	424 Only
+ILS1	-	+	424 Only
+RSC9	+	+	shared
+KIN3	-	+	424 Only
+FG08401.1	+	-	404 Only
+LOS1	-	+	424 Only
+YAK1	+	+	shared
+CBK1	+	+	shared
+FG05864.1	+	+	shared
+PGUG_01979	-	+	424 Only
+PGUG_02378	+	+	shared
+CSE4	+	+	shared
+TAF10	+	+	shared
+CSE1	-	+	424 Only
+UFO1	-	+	424 Only
+CDC123	+	+	shared
+PGUG_03131	+	+	shared
+PGUG_02375	+	+	shared
+CDC6	+	+	shared
+PGUG_00982	-	+	424 Only
+PGUG_02470	+	-	404 Only
+FG07217.1	-	+	424 Only
+BRO1	+	+	shared
+MCA1	+	+	shared
+MPH1	+	+	shared
+HOS2	-	+	424 Only
+PGUG_04171	+	+	shared
+SQS1	+	+	shared
+HCR1	+	-	404 Only
+ARG8	+	+	shared
+FG08528.1	+	+	shared
+MDV1	+	+	shared
+TAF5	+	-	404 Only
+SET5	-	+	424 Only
+PGUG_02215	+	+	shared
+DGA1	-	+	424 Only
+SET2	+	+	shared
+PGUG_03346	+	-	404 Only
+PGUG_03343	+	+	shared
+YAP1	+	+	shared
+POL5	+	+	shared
+PGUG_03225	+	-	404 Only
+POL2	+	+	shared
+STE11	+	+	shared
+GAR1	+	-	404 Only
+FG07049.1	+	+	shared
+PGUG_04779	+	-	404 Only
+FG01497.1	-	+	424 Only
+UBP12	+	+	shared
+RRP7	+	+	shared
+ARG2	+	+	shared
+SHY1	+	+	shared
+LSB5	-	+	424 Only
+PGUG_02066	+	-	404 Only
+SLN1	+	+	shared
+FG05469.1	+	-	404 Only
+ERC1	-	+	424 Only
+HMI1	+	+	shared
+NTO1	+	-	404 Only
+PGUG_02060	+	+	shared
+FG09322.1	+	-	404 Only
+FG05174.1	-	+	424 Only
+GAL10	+	+	shared
+GAL11	+	+	shared
+PGUG_01757	-	+	424 Only
+HSP70	+	+	shared
+FG05870.1	-	+	424 Only
+RKM5	-	+	424 Only
+DED1	+	-	404 Only
+PGUG_00574	+	+	shared
+FG04109.1	+	+	shared
+SSU1	+	+	shared
+SEC31	+	+	shared
+PGUG_00804	-	+	424 Only
+HRD3	+	+	shared
+FG01966.1	+	+	shared
+PGUG_05273	-	+	424 Only
+DBP9	-	+	424 Only
+CPD1	+	+	shared
+DBP3	-	+	424 Only
+DBP6	+	+	shared
+DBP7	+	+	shared
+FG06919.1	+	+	shared
+MYO2	+	+	shared
+MYO1	+	+	shared
+FG05069.1	+	+	shared
+MSY1	-	+	424 Only
+GIP4	-	+	424 Only
+AKR1	-	+	424 Only
+PGUG_00052	-	+	424 Only
+FG08539.1	+	-	404 Only
+FG04477.1	+	+	shared
+ALR1	+	+	shared
+FG04387.1	+	+	shared
+PUP3	+	-	404 Only
+PGUG_05475	-	+	424 Only
+PGUG_00059	+	+	shared
+PGUG_00058	+	-	404 Only
+PGUG_01267	+	+	shared
+FG01100.1	+	+	shared
+PGUG_05777	+	+	shared
+PGUG_00375	+	-	404 Only
+PGUG_01501	+	-	404 Only
+PGUG_01462	-	+	424 Only
+DAL81	+	-	404 Only
+FG07338.1	+	+	shared
+EAF1	+	-	404 Only
+CAF16	-	+	424 Only
+CAF17	+	+	shared
+RSM19	+	+	shared
+FGSG_12440	-	+	424 Only
+PGUG_04244	+	+	shared
+RTC4	-	+	424 Only
+PGUG_02818	+	+	shared
+PGUG_04713	+	+	shared
+MSC6	+	-	404 Only
+PGUG_04715	-	+	424 Only
+FG09576.1	+	+	shared
+IDP2	+	+	shared
+PGUG_05117	-	+	424 Only
+PGUG_05059	-	+	424 Only
+NMT1	-	+	424 Only
+MKK1	+	+	shared
+FG07328.1	+	-	404 Only
+FG02738.1	+	+	shared
+ARA1	+	-	404 Only
+FG01102.1	+	+	shared
+PGUG_00188	+	+	shared
+AFG2	+	+	shared
+FKS1	+	+	shared
+UBC11	-	+	424 Only
+ETT1	+	+	shared
+PGUG_04512	+	+	shared
+PDE2	+	+	shared
+PDE1	+	+	shared
+SPT6	+	+	shared
+FG11230.1	-	+	424 Only
+FBP26	-	+	424 Only
+YEL1	+	+	shared
+ALG3	-	+	424 Only
+MRS3/4	+	+	shared
+ALG7	-	+	424 Only
+FG09497.1	+	+	shared
+ALG5	-	+	424 Only
+ANP1	-	+	424 Only
+PGUG_04080	-	+	424 Only
+LEA1	+	+	shared
+FG05073.1	-	+	424 Only
+PGUG_03501	+	+	shared
+CHL1	+	-	404 Only
+TUB4	+	+	shared
+HMG1	+	+	shared
+TUB1	-	+	424 Only
+FG09266.1	+	+	shared
+PGUG_04083	-	+	424 Only
+PGUG_00333	-	+	424 Only
+EXO1	+	-	404 Only
+PGUG_01043	+	+	shared
+FG01347.1	+	-	404 Only
+EXO5	-	+	424 Only
+FIG4	+	+	shared
+PGUG_01321	-	+	424 Only
+HEM3	+	-	404 Only
+HEM1	-	+	424 Only
+CHS5	+	-	404 Only
+CHS7	+	+	shared
+PGUG_02668	+	+	shared
+CHS3	+	-	404 Only
+PGUG_02589	+	+	shared
+FG05094.1	+	+	shared
+MAD3	+	+	shared
+PGUG_04642	+	+	shared
+PGUG_03612	+	+	shared
+PGUG_04645	+	+	shared
+PGUG_00521	+	+	shared
+PGUG_03234	+	-	404 Only
+STE20	-	+	424 Only
+PGUG_00529	+	-	404 Only
+CHT1	+	+	shared
+FG09863.1	+	+	shared
+GNP1	+	+	shared
+PDX1	-	+	424 Only
+FGSG_05459	+	-	404 Only
+FG00361.1	+	+	shared
+BNI4	+	+	shared
+FG00786.1	+	+	shared
+GDH2	+	+	shared
+RFC5	+	+	shared
+RFC4	+	+	shared
+SGS1	+	+	shared
+ECM16	+	+	shared
+PGUG_00745	+	+	shared
+PGUG_00743	-	+	424 Only
+FG05006.1	+	+	shared
+DCN1	+	+	shared
+PGUG_00748	+	+	shared
+PGUG_05861	-	+	424 Only
+PGUG_03044	+	+	shared
+CAR2	+	+	shared
+YKR023W	+	+	shared
+FG07194.1	+	-	404 Only
+CAR1	-	+	424 Only
+QCR2	+	+	shared
+TUP1	-	+	424 Only
+GLK1	+	+	shared
+FIP1	+	-	404 Only
+MTO1	+	+	shared
+FG07033.1	+	+	shared
+SRP72	-	+	424 Only
+FG09840.1	+	+	shared
+MCK1	-	+	424 Only
+FG00905.1	-	+	424 Only
+FG05999.1	-	+	424 Only
+PGUG_02821	+	-	404 Only
+FG09635.1	-	+	424 Only
+VRG4	-	+	424 Only
+FG04421.1	+	+	shared
+PGUG_04021	+	-	404 Only
+PGUG_00637	-	+	424 Only
+PGUG_02362	+	+	shared
+PGUG_02361	+	+	shared
+PGUG_02406	+	+	shared
+FG04423.1	+	+	shared
+RPL16B	-	+	424 Only
+TDA11	+	+	shared
+MER3	+	+	shared
+PGUG_02564	+	+	shared
+RPN3	+	-	404 Only
+PGUG_05512	+	+	shared
+RAD52	+	-	404 Only
+RAD51	+	+	shared
+RAD50	+	+	shared
+RIA1	+	+	shared
+PTK2	+	+	shared
+WWM1	-	+	424 Only
+MSH1	+	+	shared
+MSH2	+	+	shared
+MSH3	+	+	shared
+MSH4	-	+	424 Only
+FG09735.1	+	-	404 Only
+FG09592.1	-	+	424 Only
+FG00284.1	+	+	shared
+PHO81	-	+	424 Only
+PGUG_01915	-	+	424 Only
+PHO89	+	+	shared
+FG00643.1	+	+	shared
+FG10837.1	+	-	404 Only
+PGUG_03215	+	+	shared
+PGUG_03199	+	+	shared
+LIA1	-	+	424 Only
+CRN1	+	+	shared
+PGUG_00924	-	+	424 Only
+PGUG_03218	-	+	424 Only
+PRP45	+	+	shared
+SUN4	+	+	shared
+PGUG_00920	-	+	424 Only
+MED11	+	-	404 Only
+MEK1	+	-	404 Only
+FG04288.1	-	+	424 Only
+FAS1	-	+	424 Only
+SEC53	-	+	424 Only
+SAN1	+	-	404 Only
+FG05642.1	+	+	shared
+LSM1	+	-	404 Only
+LSM3	+	+	shared
+FG05398.1	+	+	shared
+FG06878.1	+	-	404 Only
+CDC16	-	+	424 Only
+PGUG_02174	+	-	404 Only
+ARC18	+	-	404 Only
+AIM18	+	+	shared
+PPS1	+	+	shared
+FG08904.1	+	+	shared
+SEC21	-	+	424 Only
+SEC22	+	-	404 Only
+PGUG_00810	+	+	shared
+ACC1	-	+	424 Only
+SBE22	+	+	shared
+PGUG_00954	-	+	424 Only
+HSF1	+	+	shared
+FG06021.1	-	+	424 Only
+FG01055.1	-	+	424 Only
+FG06961.1	-	+	424 Only
+FG07142.1	+	+	shared
+FGSG_04571	+	+	shared
+RIM15	+	+	shared
+FG06305.1	-	+	424 Only
+CWC24	+	-	404 Only
+PGUG_02359	+	+	shared
+PMT2	+	+	shared
+TRM1	+	+	shared
+TRM2	+	+	shared
+TRM5	+	+	shared
+PKA1	+	+	shared
+PGUG_02004	-	+	424 Only
+FG08567.1	+	+	shared
+PGUG_01730	-	+	424 Only
+PEX30	+	+	shared
+FG07178.1	-	+	424 Only
+APT1	+	-	404 Only
+SHM1	+	-	404 Only
+NTE1	+	+	shared
+VTC4	+	+	shared
+FG09002.1	+	+	shared
+VTC2	-	+	424 Only
+FG07525.1	+	+	shared
+DSK1	+	-	404 Only
+MPP10	+	-	404 Only
+PEX21	+	+	shared
+PUP2	-	+	424 Only
+TDA7	-	+	424 Only
+FPR2	+	+	shared
+FPR4	+	+	shared
+HPT1	+	+	shared
+PGUG_05298	+	+	shared
+ERP1	+	-	404 Only
+PGUG_01450	-	+	424 Only
+GEA2	+	+	shared
+FG04242.1	+	+	shared
+FG02785.1	+	+	shared
+TIM17	-	+	424 Only
+FG04919.1	+	+	shared
+PGUG_05343	-	+	424 Only
+BST1	-	+	424 Only
+FG10319.1	-	+	424 Only
+FG05475.1	+	+	shared
+DHH1	+	+	shared
+CRR1	-	+	424 Only
+MIR1	+	+	shared
+MPK1	-	+	424 Only
+PGUG_05129	-	+	424 Only
+PGUG_04435	-	+	424 Only
+PGUG_02829	+	+	shared
+PGUG_03420	+	-	404 Only
+MOG1	-	+	424 Only
+FG07055.1	+	+	shared
+NOG1	-	+	424 Only
+PGUG_05127	+	+	shared
+FG07222.1	-	+	424 Only
+FG02549.1	+	+	shared
+PGUG_05047	-	+	424 Only
+NOP14	+	+	shared
+FG02577.1	+	+	shared
+RMT2	+	+	shared
+FG00529.1	+	+	shared
+FG02769.1	+	-	404 Only
+DOT1	+	-	404 Only
+FG04799.1	+	+	shared
+FBA1	-	+	424 Only
+SMP3	+	-	404 Only
+FG01277.1	+	-	404 Only
+NUP145	-	+	424 Only
+SFP1	+	+	shared
+RPB2	+	-	404 Only
+CLU1	-	+	424 Only
+PGUG_02956	-	+	424 Only
+PGUG_03690	+	+	shared
+FG08873.1	-	+	424 Only
+PGUG_03510	-	+	424 Only
+FG05978.1	-	+	424 Only
+ATG11	-	+	424 Only
+ATG13	+	+	shared
+PGUG_03515	+	-	404 Only
+PGUG_04722	+	+	shared
+ATG18	+	-	404 Only
+FG00699.1	+	+	shared
+TRS31	-	+	424 Only
+FG07264.1	+	+	shared
+FG00191.1	+	+	shared
+ERB1	+	+	shared
+PGUG_00089	+	+	shared
+PGUG_03353	+	-	404 Only
+PGUG_05109	+	+	shared
+DIF1	+	+	shared
+LHS1	-	+	424 Only
+PGUG_01333	+	+	shared
+ART10	-	+	424 Only
+PGUG_01339	+	-	404 Only
+HIS1	-	+	424 Only
+TEL1	+	+	shared
+TEL2	+	+	shared
+FAP7	+	+	shared
+FG10385.1	+	-	404 Only
+SPT23	+	-	404 Only
+SWT21	+	+	shared
+PGUG_02672	+	+	shared
+NPY1	-	+	424 Only
+PGUG_05625	+	+	shared
+FG04095.1	+	+	shared
+PGUG_04150	+	+	shared
+PGUG_03607	+	+	shared
+PGUG_03605	-	+	424 Only
+PGUG_04652	+	+	shared
+PGUG_03601	-	+	424 Only
+ABD1	-	+	424 Only
+PGUG_00258	+	-	404 Only
+DOA4	-	+	424 Only
+FG09368.1	+	-	404 Only
+PGUG_02088	+	+	shared
+IRE1	+	-	404 Only
+FG02421.1	+	-	404 Only
+EAF3	+	+	shared
+RPC82	+	+	shared
+PGUG_01022	+	+	shared
+DPM1	+	-	404 Only
+FG01522.1	-	+	424 Only
+FG09284.1	+	+	shared
+SCS2	-	+	424 Only
+FG06970.1	-	+	424 Only
+SCS7	-	+	424 Only
+PGUG_02484	+	-	404 Only
+DAM1	+	-	404 Only
+SNL1	+	-	404 Only
+FG07940.1	+	+	shared
+PGUG_03079	+	+	shared
+SEC2	+	+	shared
+FG02456.1	+	+	shared
+FG08910.1	+	+	shared
+FG05855.1	+	+	shared
+PGUG_03073	+	+	shared
+RHB1	+	+	shared
+PGUG_05853	-	+	424 Only
+FG09421.1	+	+	shared
+VMA4	-	+	424 Only
+PGUG_03392	+	-	404 Only
+VMA6	+	+	shared
+BNA5	+	+	shared
+BNA4	-	+	424 Only
+PNT1	+	+	shared
+SUV3	-	+	424 Only
+FG09444.1	+	-	404 Only
+CDA2	+	+	shared
+FG04128.1	+	+	shared
+MCD4	-	+	424 Only
+GEF1	-	+	424 Only
+MCD1	-	+	424 Only
+NUT1	-	+	424 Only
+FG08550.1	+	+	shared
+FG09446.1	-	+	424 Only
+PGUG_03116	+	+	shared
+OXR1	-	+	424 Only
+MAP1	+	-	404 Only
+GPD1	+	+	shared
+SRP101	-	+	424 Only
+SRP102	-	+	424 Only
+PGUG_03110	+	+	shared
+POG1	+	+	shared
+FG08726.1	+	+	shared
+ITT1	+	-	404 Only
+PGUG_03118	+	-	404 Only
+SED4	-	+	424 Only
+PAN1	-	+	424 Only
+FG01562.1	+	-	404 Only
+PGUG_00725	-	+	424 Only
+PAN6	-	+	424 Only
+PAN5	+	-	404 Only
+PGUG_02557	+	+	shared
+PGUG_02415	+	+	shared
+FG10882.1	+	+	shared
+NRG1	+	-	404 Only
+CYS4	-	+	424 Only
+NSP1	+	+	shared
+MNS1	+	+	shared
+MCM7	+	+	shared
+PGUG_03361	+	+	shared
+MCM5	-	+	424 Only
+AVT5	-	+	424 Only
+MCM2	+	-	404 Only
+PGUG_03368	+	+	shared
+PGUG_03204	+	+	shared
+PGUG_04213	+	-	404 Only
+PGUG_02307	-	+	424 Only
+RPS22	+	-	404 Only
+ARF	-	+	424 Only
+FG08400.1	+	-	404 Only
+CTM1	+	-	404 Only
+BRR2	+	+	shared
+PGUG_03663	+	+	shared
+COQ3	+	-	404 Only
+PIK1	+	+	shared
+PGUG_04212	+	+	shared
+RGA1	+	+	shared
+LAT1	+	-	404 Only
+FG01925.1	+	+	shared
+RLF2	+	-	404 Only
+MEF1	+	+	shared
+MEF2	+	+	shared
+FG08805.1	+	+	shared
+PGUG_02164	+	+	shared
+FG06123.1	+	+	shared
+FG10243.1	-	+	424 Only
+ISC1	-	+	424 Only
+PFS2	-	+	424 Only
+MUM3	-	+	424 Only
+RCY1	+	-	404 Only
+PGUG_00949	+	+	shared
+SPT20	+	+	shared
+MGM1	+	-	404 Only
+BDP1	+	+	shared
+FG10139.1	-	+	424 Only
+PGUG_00947	+	+	shared
+APE2	+	+	shared
+SOD1	+	+	shared
+KAP95	+	+	shared
+CCT5	+	+	shared
+RIM21	-	+	424 Only
+RIM20	+	+	shared
+SAH1	+	+	shared
+PFA4	+	-	404 Only
+NUC1	+	-	404 Only
+BGL2	+	+	shared
+SEC23	+	-	404 Only
+FG08516.1	+	+	shared
+CREB	+	-	404 Only
+PGUG_01703	+	+	shared
+PPM2	+	-	404 Only
+PPM1	+	+	shared
+PGUG_02777	+	-	404 Only
+ERG7	+	-	404 Only
+PET127	+	+	shared
+PGUG_03382	-	+	424 Only
+FG10188.1	+	-	404 Only
+RPS2	+	-	404 Only
+FG10203.1	-	+	424 Only
+PGUG_05320	+	-	404 Only
+ARH1	+	-	404 Only
+FG02701.1	-	+	424 Only
+FG01945.1	-	+	424 Only
+AVT3	+	+	shared
+GUT2	+	+	shared
+FG09919.1	+	+	shared
+FG02592.1	+	-	404 Only
+PGUG_04651	+	+	shared
+PGUG_01448	-	+	424 Only
+DNM1	-	+	424 Only
+FG04418.1	+	+	shared
+PGS1	+	-	404 Only
+PGUG_01442	+	+	shared
+MDL1	+	+	shared
+PGUG_05289	+	+	shared
+PGUG_01446	+	-	404 Only
+TAO3	+	+	shared
+FG09476.1	+	-	404 Only
+ATC1	+	-	404 Only
+CPA2	+	+	shared
+APL2	-	+	424 Only
+SFH1	+	+	shared
+APL6	-	+	424 Only
+APL5	-	+	424 Only
+APL4	+	-	404 Only
+UBC12	+	-	404 Only
+FG04051.1	+	+	shared
+TRK1	+	+	shared
+PNS1	+	+	shared
+FTR1	-	+	424 Only
+PGUG_00556	-	+	424 Only
+SCL1	+	-	404 Only
+PGUG_04035	-	+	424 Only
+HFI1	+	+	shared
+RIM101	+	+	shared
+PGUG_01348	+	+	shared
+RVB2	+	+	shared
+FG06002.1	-	+	424 Only
+KIN1	+	+	shared
+GET1	+	-	404 Only
+ACS2	-	+	424 Only
+FG09275.1	-	+	424 Only
+PGUG_01236	+	+	shared
+FG01348.1	+	-	404 Only
+CDC28	-	+	424 Only
+SDC1	+	+	shared
+CDC25	+	+	shared
+SEPARIN	-	+	424 Only
+CDC23	-	+	424 Only
+FG03954.1	+	-	404 Only
+ROX3	-	+	424 Only
+RNA14	+	-	404 Only
+BUR1	+	+	shared
+PGUG_02946	-	+	424 Only
+FG05844.1	+	+	shared
+PGUG_02944	+	+	shared
+PGUG_04718	+	+	shared
+FG07467.1	+	+	shared
+FG05070.1	-	+	424 Only
+FG01006.1	+	-	404 Only
+PGUG_04248	+	+	shared
+SNZ1	+	+	shared
+FG05619.1	+	+	shared
+XYL2	-	+	424 Only
+PGUG_03562	+	+	shared
+KIP1	+	+	shared
+PGUG_03689	+	-	404 Only
+FG10362.1	-	+	424 Only
+PGUG_04492	-	+	424 Only
+FG10137.1	+	-	404 Only
+PGUG_04327	-	+	424 Only
+FG00259.1	+	-	404 Only
+SPC110	-	+	424 Only
+SYF2	+	-	404 Only
+AEP1	+	+	shared
+DCW1	+	+	shared
+PGUG_05147	+	-	404 Only
+TRS20	-	+	424 Only
+FG05236.1	+	+	shared
+FG06867.1	-	+	424 Only
+PGUG_00090	-	+	424 Only
+PGUG_00097	+	-	404 Only
+FG07873.1	+	+	shared
+GUF1	+	-	404 Only
+KRE9	+	+	shared
+SYF1	-	+	424 Only
+MFALPHA2	+	-	404 Only
+FG10295.1	-	+	424 Only
+HRR25	-	+	424 Only
+DIM1	+	+	shared
+ODC	-	+	424 Only
+MRM2	-	+	424 Only
+FG09638.1	+	+	shared
+FG02489.1	-	+	424 Only
+FG10725.1	+	+	shared
+FG08452.1	+	+	shared
+FAS2	+	+	shared
+NUP84	+	-	404 Only
+FG07379.1	-	+	424 Only
+NUP85	-	+	424 Only
+CCS1	+	+	shared
+DIS3	-	+	424 Only
+FG10280.1	+	+	shared
+IRC19	-	+	424 Only
+FG05698.1	+	-	404 Only
+PGUG_00547	+	+	shared
+PGUG_04991	-	+	424 Only
+VPS35	+	+	shared
+IMD1	-	+	424 Only
+MTF1	+	+	shared
+PGUG_04395	+	+	shared
+PGUG_02615	+	-	404 Only
+FLD1	-	+	424 Only
+ALA1	+	+	shared
+HMX1	-	+	424 Only
+UTP4	+	+	shared
+FG01164.1	+	-	404 Only
+FG09704.1	+	-	404 Only
+PGUG_02497	-	+	424 Only
+PTR2	+	+	shared
+PTR3	+	+	shared
+GRX2	+	+	shared
+CAT2	+	+	shared
+FG04370.1	-	+	424 Only
+TAL1	+	+	shared
+FG06298.1	-	+	424 Only
+PGUG_05846	+	-	404 Only
+PGUG_02795	+	+	shared
+SGO1	+	-	404 Only
+VMA13	+	+	shared
+PGUG_05559	+	+	shared
+FG04351.1	+	+	shared
+PGUG_03709	+	+	shared
+MIDASIN	+	+	shared
+ADE13	+	+	shared
+FG07195.1	+	+	shared
+CYK3	-	+	424 Only
+FG06864.1	-	+	424 Only
+FG10935.1	+	-	404 Only
+ORC2	-	+	424 Only
+LOT5	-	+	424 Only
+ORC1	-	+	424 Only
+MNL1	+	+	shared
+PGUG_02429	+	+	shared
+FG04274.1	-	+	424 Only
+DAPB	-	+	424 Only
+GDE1	+	-	404 Only
+SUB2	+	-	404 Only
+MZM1	-	+	424 Only
+PGUG_04262	+	-	404 Only
+SNF2	+	+	shared
+XYL1	+	-	404 Only
+PGUG_00717	-	+	424 Only
+DHR2	+	-	404 Only
+MVD1	+	-	404 Only
+CWH41	+	+	shared
+DAL3	+	-	404 Only
+RTT106	+	-	404 Only
+MRP51	+	-	404 Only
