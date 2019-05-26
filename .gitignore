@@ -56,3 +56,6 @@ mapping_to_SefAle/404.sam.gz
 mapping_to_SefAle/Sefale.un.sam.gz
 mapping_to_SefAle/424.bam.gz
 mapping_to_SefAle/424.un.sam.gz
+smudgeplot_files/Sefale_kmer_counts.jf.gz
+smudgeplot_files/424_kmer_counts.jf.gz
+smudgeplot_files/404_kmer_counts.jf.gz
