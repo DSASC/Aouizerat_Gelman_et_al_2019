@@ -24,7 +24,7 @@ Analysis for the manuscript "Eukaryotic adaptation to years-long starvation rese
 [SNP call](https://nbviewer.jupyter.org/github/DSASC/Aouizerat_Gelman_et_al_2019/blob/master/script.ipynb#15.-SNPs-in-SefAle,-404-and-424-compared-to-SefAle)  
 [Functional annotation of SefAle](https://nbviewer.jupyter.org/github/DSASC/Aouizerat_Gelman_et_al_2019/blob/master/script.ipynb#16.-identify-genes-in-SefAle)  
 [Summarize polymorphisms](https://nbviewer.jupyter.org/github/DSASC/Aouizerat_Gelman_et_al_2019/blob/master/script.ipynb#19.-Summarize-polymorphism-in-404,-424-compared-to-SefAle)  
-[Synonymous and non synonymouse point mutations in descendant strains](https://nbviewer.jupyter.org/github/DSASC/Aouizerat_Gelman_et_al_2019/blob/master/script.ipynb#21.-Detect-synonymous-and-non-synonymou- mutation)  
+[Synonymous and non synonymouse point mutations in descendant strains](https://nbviewer.jupyter.org/github/DSASC/Aouizerat_Gelman_et_al_2019/blob/master/script.ipynb#21.-Detect-synonymous-and-non-synonymou-mutation)  
 [Venn diagrams of share and unique genes genes with point mutation](https://nbviewer.jupyter.org/github/DSASC/Aouizerat_Gelman_et_al_2019/blob/master/script.ipynb#22.-Venn-diagrams-of-genes-with-point-mutations,-homozygote-in-SefAle-and-homozygote-in-424,-404)
 [Gain and Loss of heterozygocity](https://nbviewer.jupyter.org/github/DSASC/Aouizerat_Gelman_et_al_2019/blob/master/script.ipynb#23.-Summarize-gain-and-loss-of-heterozygocity)
 [Summarize polymorphism types (for Figure-4C)](#24.-Summarize-polymorphism-types-for-Figure-4C)
