@@ -1,0 +1,1572 @@
+# This table contains all the functionally-annotated* genes from Tables S1 and S2 that have at least one SNP identified as point-nutation				
+# It corresponds with the genes represented in Figure 				
+# *functionally-annotated genes are genes with predicted_gene_name in the eggNOG output 				
+# Shared genes 751				
+# 404 only 366				
+# 424 only 447				
+# Total 1564				
+	Unnamed: 0	404	424	Shared
+0	ASG1	+	+	shared
+1	SYO1	-	+	424 Only
+2	AKL1	+	+	shared
+3	GTR1	+	+	shared
+4	HAA1	+	+	shared
+5	ITR2	+	+	shared
+6	MNR2	+	+	shared
+7	ARN2	+	-	404 Only
+8	VAC14	+	+	shared
+9	GDS1	-	+	424 Only
+10	YLR001C	+	-	404 Only
+11	KIP2	+	+	shared
+12	PRP5	+	-	404 Only
+13	MOD5	-	+	424 Only
+14	YHL017W	-	+	424 Only
+15	VPS5	-	+	424 Only
+16	CIR2	+	+	shared
+17	MSS11	+	-	404 Only
+18	END3	+	-	404 Only
+19	REB1	-	+	424 Only
+20	MNN4	+	+	shared
+21	YJR141W	+	+	shared
+22	SSK2	+	+	shared
+23	SSK1	+	-	404 Only
+24	YLR460C	+	-	404 Only
+25	NNT1	+	-	404 Only
+26	SIP3	+	+	shared
+27	YGL140C	-	+	424 Only
+28	RPT6	-	+	424 Only
+29	PUT3	+	-	404 Only
+30	SWS2	+	-	404 Only
+31	SSY5	+	+	shared
+32	RPT3	+	-	404 Only
+33	EPL1	+	+	shared
+34	RPT1	-	+	424 Only
+35	ATP2	+	+	shared
+36	ATP5	-	+	424 Only
+37	REI1	+	-	404 Only
+38	RET1	+	+	shared
+39	HSV2	+	+	shared
+40	QCR10	-	+	424 Only
+41	PXA2	+	+	shared
+42	TFA2	-	+	424 Only
+43	NCA2	+	+	shared
+44	ECM32	+	+	shared
+45	ATP12	+	+	shared
+46	PKH1	-	+	424 Only
+47	MRC1	+	+	shared
+48	LST4	+	+	shared
+49	SLD2	+	+	shared
+50	TAF2	+	-	404 Only
+51	DFG5	+	+	shared
+52	PPG1	-	+	424 Only
+53	NOP8	+	-	404 Only
+54	ERG6	-	+	424 Only
+55	FMO1	-	+	424 Only
+56	ERG1	-	+	424 Only
+57	ORM1	+	+	shared
+58	ERG9	+	+	shared
+59	NOP7	-	+	424 Only
+60	EDC3	+	-	404 Only
+61	FLO8	+	-	404 Only
+62	RRI2	-	+	424 Only
+63	RRI1	+	+	shared
+64	PIS1	+	-	404 Only
+65	ECM21	+	+	shared
+66	PKC1	+	+	shared
+67	HEL1	+	-	404 Only
+68	VMA1	+	+	shared
+69	UBP3	-	+	424 Only
+70	POP1	+	-	404 Only
+71	RIM9	+	+	shared
+72	MNP1	-	+	424 Only
+73	RIB2	+	+	shared
+74	CDC43	-	+	424 Only
+75	AIP1	+	+	shared
+76	PMT1	-	+	424 Only
+77	SOL1	-	+	424 Only
+78	YIL166C	+	+	shared
+79	ARO1	+	-	404 Only
+80	DJP1	+	-	404 Only
+81	SIP2	+	+	shared
+82	SAP1	-	+	424 Only
+83	EMW1	+	+	shared
+84	PRP11	+	-	404 Only
+85	YFL034W	+	+	shared
+86	DSS1	+	-	404 Only
+87	SPB4	+	+	shared
+88	RMD9	+	-	404 Only
+89	TOP2	+	-	404 Only
+90	GSM1	+	-	404 Only
+91	CPYA	-	+	424 Only
+92	UTP20	+	+	shared
+93	GYP1	+	-	404 Only
+94	MIP1	-	+	424 Only
+95	YHM2	+	-	404 Only
+96	YME1	-	+	424 Only
+97	YPT35	-	+	424 Only
+98	BDH1	+	+	shared
+99	PUT2	-	+	424 Only
+100	TOM1	+	+	shared
+101	PDI1	+	+	shared
+102	NAF1	+	-	404 Only
+103	MET1	+	+	shared
+104	YKR070W	+	+	shared
+105	FLX1	+	-	404 Only
+106	INP52	+	-	404 Only
+107	NUP192	+	+	shared
+108	GAL4	+	+	shared
+109	QNS1	+	+	shared
+110	ARO9	-	+	424 Only
+111	AAD14	+	-	404 Only
+112	YPL264C	+	+	shared
+113	YGR111W	+	-	404 Only
+114	UFD2	+	-	404 Only
+115	GLT1	-	+	424 Only
+116	SMC3	+	+	shared
+117	SMC2	-	+	424 Only
+118	SMC5	+	+	shared
+119	TSC11	+	+	shared
+120	SMC6	+	-	404 Only
+121	CAM1	+	-	404 Only
+122	ABZ2	+	-	404 Only
+123	KEL3	+	+	shared
+124	ROM2	+	+	shared
+125	PUS7	+	+	shared
+126	DUG2	-	+	424 Only
+127	ECM30	+	+	shared
+128	NUT2	-	+	424 Only
+129	KGD2	+	-	404 Only
+130	PHD1	+	+	shared
+131	FLC1	+	+	shared
+132	ALG12	-	+	424 Only
+133	IML2	+	+	shared
+134	ART5	+	+	shared
+135	SHQ1	-	+	424 Only
+136	IML1	+	+	shared
+137	MCP2	+	-	404 Only
+138	UBR2	-	+	424 Only
+139	RAV1	+	-	404 Only
+140	APC2	+	+	shared
+141	STP1	+	+	shared
+142	RFX1	+	+	shared
+143	DCC1	+	-	404 Only
+144	RPN11	+	+	shared
+145	MDM20	+	-	404 Only
+146	SNC2	+	-	404 Only
+147	KSP1	+	-	404 Only
+148	CNS1	-	+	424 Only
+149	STE24	-	+	424 Only
+150	USO1	+	+	shared
+151	MRL1	-	+	424 Only
+152	UTP18	+	+	shared
+153	YAR1	-	+	424 Only
+154	STE12	+	+	shared
+155	GRH1	-	+	424 Only
+156	ENV7	+	+	shared
+157	MBP1	+	+	shared
+158	YIP1	+	-	404 Only
+159	ADP1	-	+	424 Only
+160	NAM7	-	+	424 Only
+161	TEF3	+	-	404 Only
+162	SEA4	-	+	424 Only
+163	ESL2	+	+	shared
+164	MKT1	+	-	404 Only
+165	DOC1	-	+	424 Only
+166	ANT1	+	+	shared
+167	RVS161	-	+	424 Only
+168	RAI1	+	+	shared
+169	SER2	-	+	424 Only
+170	FUN26	+	+	shared
+171	RBD2	-	+	424 Only
+172	FKS3	+	-	404 Only
+173	ORC4	-	+	424 Only
+174	FCY2	+	-	404 Only
+175	SPC98	-	+	424 Only
+176	UTP8	+	-	404 Only
+177	URK1	-	+	424 Only
+178	MRS2	-	+	424 Only
+179	ENV9	+	-	404 Only
+180	SWT1	+	+	shared
+181	MRS6	+	-	404 Only
+182	PLB1	+	+	shared
+183	AGC1	-	+	424 Only
+184	IST2	+	+	shared
+185	GFA1	+	-	404 Only
+186	NUP188	+	+	shared
+187	OAC1	+	-	404 Only
+188	FAR11	-	+	424 Only
+189	HAP2	+	+	shared
+190	FAF1	+	-	404 Only
+191	RTK1	+	+	shared
+192	ERO1	-	+	424 Only
+193	MOT1	+	+	shared
+194	ADE8	-	+	424 Only
+195	KTI12	+	+	shared
+196	PRP43	+	-	404 Only
+197	STE7	+	+	shared
+198	YDJ1	-	+	424 Only
+199	RPN2	+	-	404 Only
+200	RQC1	+	-	404 Only
+201	RAD17	+	+	shared
+202	MEX67	+	-	404 Only
+203	LRG1	-	+	424 Only
+204	ARG81	-	+	424 Only
+205	GPB1	+	+	shared
+206	AAT1	+	+	shared
+207	KEL2	+	+	shared
+208	URA4	+	+	shared
+209	PAA1	+	+	shared
+210	SWD1	+	-	404 Only
+211	YCR051W	+	-	404 Only
+212	ZRT3	+	+	shared
+213	SEF1	-	+	424 Only
+214	RPL36B	-	+	424 Only
+215	KAP122	-	+	424 Only
+216	PRP39	+	-	404 Only
+217	MRPL33	+	-	404 Only
+218	STB5	+	+	shared
+219	UTP22	+	+	shared
+220	NDK1	+	+	shared
+221	ZIP2	-	+	424 Only
+222	PAP2	+	+	shared
+223	FKH2	+	+	shared
+224	SSZ1	+	+	shared
+225	YNR048W	-	+	424 Only
+226	PAB1	+	+	shared
+227	OPI3	+	+	shared
+228	SSH4	+	-	404 Only
+229	KRE6	+	+	shared
+230	YNL247W	-	+	424 Only
+231	SSH1	-	+	424 Only
+232	KAE1	-	+	424 Only
+233	YDR338C	-	+	424 Only
+234	NIT3	+	+	shared
+235	ATG9	+	+	shared
+236	NUP170	+	-	404 Only
+237	OYE2	+	+	shared
+238	SWE1	+	-	404 Only
+239	TUM1	+	-	404 Only
+240	SUL2	-	+	424 Only
+241	BOI2	-	+	424 Only
+242	CRD1	+	-	404 Only
+243	HULA	-	+	424 Only
+244	SPO11	-	+	424 Only
+245	PGC1	+	+	shared
+246	TIM8	+	+	shared
+247	PRO3	-	+	424 Only
+248	SEC61	+	+	shared
+249	SEC62	+	-	404 Only
+250	SEC63	+	-	404 Only
+251	LCB1	-	+	424 Only
+252	TUS1	+	+	shared
+253	NAN1	+	-	404 Only
+254	LCB4	+	-	404 Only
+255	YPL088W	-	+	424 Only
+256	RPB1	+	+	shared
+257	TAF8	+	+	shared
+258	PRP3	+	+	shared
+259	PGM2	+	+	shared
+260	ROT2	+	-	404 Only
+261	YLR177W	-	+	424 Only
+262	UGP1	-	+	424 Only
+263	SKG3	+	+	shared
+264	TOF1	+	+	shared
+265	NET1	+	+	shared
+266	YOR111W	+	-	404 Only
+267	FUR4	+	-	404 Only
+268	SSQ1	+	+	shared
+269	AIM10	-	+	424 Only
+270	MRE11	+	+	shared
+271	KRE28	-	+	424 Only
+272	DSE3	+	-	404 Only
+273	ACE2	+	-	404 Only
+274	GCD1	+	-	404 Only
+275	MET18	+	+	shared
+276	AVO2	+	-	404 Only
+277	AS-1	+	+	shared
+278	DOA1	-	+	424 Only
+279	EPS1	+	+	shared
+280	SRP68	-	+	424 Only
+281	CTR1	+	+	shared
+282	TPS2	+	-	404 Only
+283	EIS1	+	-	404 Only
+284	ISN1	+	-	404 Only
+285	COX10	+	+	shared
+286	COX11	+	-	404 Only
+287	RIM4	-	+	424 Only
+288	CRED	+	-	404 Only
+289	TOA1	+	+	shared
+290	NMD3	+	+	shared
+291	ERG4	+	-	404 Only
+292	ARN1	+	+	shared
+293	YGL159W	-	+	424 Only
+294	GSY2	+	+	shared
+295	STP22	+	+	shared
+296	SPC97	-	+	424 Only
+297	LTE1	+	+	shared
+298	RSM22	-	+	424 Only
+299	DSF1	+	-	404 Only
+300	APN2	+	+	shared
+301	SPA2	+	+	shared
+302	YHR020W	-	+	424 Only
+303	RTC1	+	+	shared
+304	RPL43	+	+	shared
+305	TRM61	-	+	424 Only
+306	ZDS1	-	+	424 Only
+307	PUG1	+	+	shared
+308	SAP190	+	+	shared
+309	TFC3	+	-	404 Only
+310	ZRC1	+	+	shared
+311	SLX4	-	+	424 Only
+312	AREA	+	+	shared
+313	UTP13	+	+	shared
+314	UTP10	+	-	404 Only
+315	CYC3	+	-	404 Only
+316	GND1	-	+	424 Only
+317	PUS1	-	+	424 Only
+318	YOR022C	+	-	404 Only
+319	CDC39	+	+	shared
+320	NOP4	+	-	404 Only
+321	GFD2	+	+	shared
+322	UBP7	+	+	shared
+323	DMA1	+	-	404 Only
+324	GCN5	-	+	424 Only
+325	SDA1	-	+	424 Only
+326	TGL4	+	+	shared
+327	MRPL20	-	+	424 Only
+328	YIH1	+	+	shared
+329	BUD17	-	+	424 Only
+330	FOL1	+	+	shared
+331	FOL3	+	+	shared
+332	SDS23	+	+	shared
+333	TAD3	+	+	shared
+334	OCT1	-	+	424 Only
+335	SHB17	+	-	404 Only
+336	ISY1	+	-	404 Only
+337	CLB2	+	-	404 Only
+338	IDE1	+	+	shared
+339	MET22	+	-	404 Only
+340	BNA2	+	+	shared
+341	DUS4	+	+	shared
+342	SAC7	-	+	424 Only
+343	CTR2	+	+	shared
+344	RPA12	+	+	shared
+345	AFG3	+	+	shared
+346	YJR098C	+	+	shared
+347	GIP3	+	+	shared
+348	PRS5	+	-	404 Only
+349	CAB1	-	+	424 Only
+350	YDL206W	+	-	404 Only
+351	MET5	+	+	shared
+352	SKI3	+	+	shared
+353	NOP56	+	-	404 Only
+354	YGR117C	+	+	shared
+355	ELF1	-	+	424 Only
+356	SOK1	+	-	404 Only
+357	RPO41	-	+	424 Only
+358	CTF18	+	+	shared
+359	KRI1	-	+	424 Only
+360	ABP140	+	-	404 Only
+361	APM2	+	+	shared
+362	YCR061W	+	+	shared
+363	MRPS12	+	+	shared
+364	HNM1	-	+	424 Only
+365	CTA1	+	+	shared
+366	FCJ1	+	+	shared
+367	BAS1	-	+	424 Only
+368	DPH2	+	+	shared
+369	DPH3	+	+	shared
+370	NOP15	+	-	404 Only
+371	GCN1	+	+	shared
+372	FLC1	+	-	404 Only
+373	SIN3	+	+	shared
+374	VPS10	+	+	shared
+375	YEF1	+	+	shared
+376	MKC7	+	+	shared
+377	GUA1	+	+	shared
+378	CCH1	+	+	shared
+379	MAG2	+	+	shared
+380	GNT1	+	-	404 Only
+381	SKN7	+	+	shared
+382	ECM7	+	+	shared
+383	PRP24	+	-	404 Only
+384	CDC9	+	+	shared
+385	FET4	+	+	shared
+386	PRP21	+	+	shared
+387	PRP22	+	-	404 Only
+388	UTR4	-	+	424 Only
+389	RSE1	+	+	shared
+390	UTP15	-	+	424 Only
+391	CCT7	+	-	404 Only
+392	PLC1	+	+	shared
+393	RRT2	-	+	424 Only
+394	YOL107W	+	+	shared
+395	PXL1	-	+	424 Only
+396	DBF4	+	+	shared
+397	SEN1	+	+	shared
+398	PRR1	+	+	shared
+399	BRN1	-	+	424 Only
+400	YPK1	+	-	404 Only
+401	MON2	+	+	shared
+402	VHC1	+	-	404 Only
+403	YML018C	+	+	shared
+404	LYS4	+	-	404 Only
+405	RAD26	-	+	424 Only
+406	SKI2	+	+	shared
+407	LYS5	-	+	424 Only
+408	NIC96	+	+	shared
+409	OCH1	+	+	shared
+410	CLN1	+	-	404 Only
+411	IRA2	+	-	404 Only
+412	BBP	+	-	404 Only
+413	MTC6	-	+	424 Only
+414	CHA1	+	+	shared
+415	CUL3	+	+	shared
+416	CYM1	+	+	shared
+417	APM4	+	-	404 Only
+418	PUT1	-	+	424 Only
+419	ALE1	+	-	404 Only
+420	SEC8	+	-	404 Only
+421	CPR6	-	+	424 Only
+422	DYN3	+	-	404 Only
+423	THR4	-	+	424 Only
+424	GPA2	+	+	shared
+425	AMS1	-	+	424 Only
+426	CIN1	+	+	shared
+427	DPS1	+	+	shared
+428	PIN4	+	+	shared
+429	ADO1	+	+	shared
+430	PNP1	+	-	404 Only
+431	SLH1	-	+	424 Only
+432	GLG2	+	+	shared
+433	IRS4	-	+	424 Only
+434	ENT3	+	+	shared
+435	SRC1	-	+	424 Only
+436	YML020W	+	-	404 Only
+437	STL1	+	+	shared
+438	MSB3	+	+	shared
+439	FRE7	+	-	404 Only
+440	AQUAPORIN	+	-	404 Only
+441	RRP4	+	+	shared
+442	RRP6	+	-	404 Only
+443	MRPL22	-	+	424 Only
+444	RIO2	+	-	404 Only
+445	RRP9	+	+	shared
+446	TOS4	+	+	shared
+447	SPI1	-	+	424 Only
+448	PTC5	-	+	424 Only
+449	TAD2	+	+	shared
+450	GPH1	+	-	404 Only
+451	BAT1	+	+	shared
+452	RED1	-	+	424 Only
+453	GTT1	+	+	shared
+454	IKS1	-	+	424 Only
+455	MSC3	+	+	shared
+456	APE4	+	+	shared
+457	DUR3	-	+	424 Only
+458	VPS36	+	+	shared
+459	SIR2	+	-	404 Only
+460	SIR3	+	+	shared
+461	GSH1	+	-	404 Only
+462	TPO5	+	+	shared
+463	UBR1	-	+	424 Only
+464	MSM1	+	+	shared
+465	SEC11	+	-	404 Only
+466	SEC10	-	+	424 Only
+467	SEC13	-	+	424 Only
+468	SEC12	-	+	424 Only
+469	NAR1	-	+	424 Only
+470	SEC17	-	+	424 Only
+471	SEC16	-	+	424 Only
+472	HIS4	+	+	shared
+473	MRPL4	+	+	shared
+474	HIS7	-	+	424 Only
+475	PMD1	+	+	shared
+476	NOP53	+	-	404 Only
+477	REV1	-	+	424 Only
+478	REV3	+	-	404 Only
+479	YJL218W	-	+	424 Only
+480	MAM3	+	-	404 Only
+481	SSN6	+	+	shared
+482	YHR078W	-	+	424 Only
+483	SSN2	+	+	shared
+484	GRX7	+	-	404 Only
+485	CFT2	+	-	404 Only
+486	YMC2	-	+	424 Only
+487	FMP52	+	-	404 Only
+488	CLB3	+	-	404 Only
+489	YFL042C	+	+	shared
+490	TUF1	+	-	404 Only
+491	YCS4	+	-	404 Only
+492	YHB1	-	+	424 Only
+493	TRM3	+	-	404 Only
+494	NAM9	-	+	424 Only
+495	GPA1	+	+	shared
+496	AHP1	+	+	shared
+497	PRE3	-	+	424 Only
+498	RPA34	+	+	shared
+499	RIO1	+	-	404 Only
+500	LCD1	-	+	424 Only
+501	PFK26	+	+	shared
+502	NAB6	+	+	shared
+503	SAS3	+	+	shared
+504	RTR1	+	+	shared
+505	FHL1	-	+	424 Only
+506	PAH1	+	+	shared
+507	TDA3	+	+	shared
+508	GTF1	+	-	404 Only
+509	RPL6A	+	+	shared
+510	RRB1	+	-	404 Only
+511	PHB1	+	+	shared
+512	ELO2	+	+	shared
+513	YPL260W	+	+	shared
+514	GCV2	+	+	shared
+515	TOR1	+	+	shared
+516	LEO1	+	-	404 Only
+517	HSE1	-	+	424 Only
+518	TRM13	+	+	shared
+519	ADK2	+	+	shared
+520	APA2	+	+	shared
+521	RGT1	-	+	424 Only
+522	YUH1	+	+	shared
+523	VID30	+	+	shared
+524	REX4	+	+	shared
+525	REX3	+	-	404 Only
+526	ZRT1	+	+	shared
+527	TRE1	+	-	404 Only
+528	NTG2	+	-	404 Only
+529	TSL1	+	+	shared
+530	GUP1	+	+	shared
+531	PRP6	+	+	shared
+532	YDL119C	+	-	404 Only
+533	ECM4	+	+	shared
+534	YEN1	+	+	shared
+535	RRN3	+	-	404 Only
+536	ECM1	+	+	shared
+537	CSR1	-	+	424 Only
+538	YOR093C	+	-	404 Only
+539	LEU3	+	+	shared
+540	PEX10	+	-	404 Only
+541	PEX13	+	-	404 Only
+542	ATG27	+	-	404 Only
+543	PEX14	+	-	404 Only
+544	NIP1	-	+	424 Only
+545	MID1	-	+	424 Only
+546	DNA2	+	+	shared
+547	DIT1	-	+	424 Only
+548	APM1	+	+	shared
+549	PGAB	+	+	shared
+550	YPL150W	-	+	424 Only
+551	TRS130	+	-	404 Only
+552	ATG2	+	+	shared
+553	TFB3	-	+	424 Only
+554	BRE4	+	+	shared
+555	ATG7	+	+	shared
+556	ATG4	-	+	424 Only
+557	BPL1	+	-	404 Only
+558	CDC7	-	+	424 Only
+559	MPH3	-	+	424 Only
+560	JLP1	+	+	shared
+561	STU2	-	+	424 Only
+562	DCP1	+	+	shared
+563	FAB1	+	+	shared
+564	TEC1	+	-	404 Only
+565	OSH3	+	-	404 Only
+566	DLD1	+	-	404 Only
+567	BUD3	+	+	shared
+568	UBA1	+	+	shared
+569	GPI16	+	+	shared
+570	GPI17	+	+	shared
+571	GPI12	+	+	shared
+572	GPI13	-	+	424 Only
+573	GCD7	+	-	404 Only
+574	CTF4	+	-	404 Only
+575	ARC1	+	-	404 Only
+576	ATH1	+	+	shared
+577	DNF1	+	+	shared
+578	TMP1	+	+	shared
+579	MIC10	+	+	shared
+580	PAT1	+	+	shared
+581	ATP11	-	+	424 Only
+582	ISW1	-	+	424 Only
+583	TDA9	+	+	shared
+584	GEP4	-	+	424 Only
+585	YHK8	-	+	424 Only
+586	PCA1	+	+	shared
+587	STP1	-	+	424 Only
+588	SNQ2	+	+	shared
+589	TRA1	+	+	shared
+590	AGE1	+	+	shared
+591	DYN1	+	+	shared
+592	FBP1	+	+	shared
+593	YOL098C	+	+	shared
+594	TIF35	+	-	404 Only
+595	VTS1	+	+	shared
+596	DSC2	+	+	shared
+597	MET10	+	+	shared
+598	SPP382	+	+	shared
+599	OGG1	+	+	shared
+600	UBP15	+	+	shared
+601	IBD2	+	+	shared
+602	NUP133	+	+	shared
+603	ATG21	+	-	404 Only
+604	NPA3	+	-	404 Only
+605	ATG23	+	+	shared
+606	NEW1	+	+	shared
+607	GAS1	+	-	404 Only
+608	CLF1	+	-	404 Only
+609	ATG26	+	+	shared
+610	PIF1	+	+	shared
+611	ERG27	-	+	424 Only
+612	PFA3	+	+	shared
+613	ERG24	-	+	424 Only
+614	ALB1	+	-	404 Only
+615	FUM1	+	+	shared
+616	VPS3	-	+	424 Only
+617	ASK1	-	+	424 Only
+618	GRE2	+	+	shared
+619	LIP2	+	-	404 Only
+620	COG6	+	+	shared
+621	YHR045W	-	+	424 Only
+622	SAF1	-	+	424 Only
+623	RPC25	-	+	424 Only
+624	UIP5	+	+	shared
+625	YCF1	+	+	shared
+626	SPT14	+	+	shared
+627	SFB3	+	-	404 Only
+628	TAF13	+	+	shared
+629	TMN3	+	-	404 Only
+630	TAF12	+	-	404 Only
+631	YBL055C	+	-	404 Only
+632	SNQ2	+	+	shared
+633	MSB3	+	+	shared
+634	DRS1	-	+	424 Only
+635	OST3	-	+	424 Only
+636	DPB4	+	-	404 Only
+637	SAM4	-	+	424 Only
+638	DPB3	-	+	424 Only
+639	SPO14	+	+	shared
+640	AMD1	-	+	424 Only
+641	SNX41	+	+	shared
+642	RTT103	+	+	shared
+643	KRS1	+	-	404 Only
+644	ENT1	+	+	shared
+645	RFA2	-	+	424 Only
+646	RFA1	+	-	404 Only
+647	ESA1	+	-	404 Only
+648	ADE3	+	+	shared
+649	MAK21	+	-	404 Only
+650	MAK32	+	+	shared
+651	ECI1	+	-	404 Only
+652	YAP1802	+	-	404 Only
+653	CWH43	+	+	shared
+654	STB2	+	+	shared
+655	SMF3	+	-	404 Only
+656	NFU1	-	+	424 Only
+657	FUN12	+	+	shared
+658	RET2	+	-	404 Only
+659	PSE1	+	-	404 Only
+660	SMF3	+	+	shared
+661	CAP1	+	-	404 Only
+662	EST2	+	+	shared
+663	OAF3	-	+	424 Only
+664	YLR422W	+	+	shared
+665	SRB8	+	+	shared
+666	SRB4	-	+	424 Only
+667	SRB6	+	+	shared
+668	NDI1	+	+	shared
+669	LSM6	+	+	shared
+670	YNL092W	+	-	404 Only
+671	PMS1	+	+	shared
+672	SAL1	+	+	shared
+673	HDA3	+	-	404 Only
+674	NGR1	-	+	424 Only
+675	UAP1	-	+	424 Only
+676	TIM54	+	-	404 Only
+677	FYV7	+	-	404 Only
+678	FYV8	+	+	shared
+679	ACO2	+	+	shared
+680	PEX1	+	+	shared
+681	YAE1	+	-	404 Only
+682	INO1	+	+	shared
+683	PEX7	+	-	404 Only
+684	PEX6	+	+	shared
+685	SWC7	+	+	shared
+686	LOA1	+	+	shared
+687	SWC5	-	+	424 Only
+688	RTG2	+	+	shared
+689	SEY1	+	-	404 Only
+690	SUR1	-	+	424 Only
+691	MSN4	+	+	shared
+692	CAS42	-	+	424 Only
+693	HSP90	+	+	shared
+694	POT1	-	+	424 Only
+695	YCK2	+	+	shared
+696	CBC2	+	-	404 Only
+697	YMR196W	+	+	shared
+698	MET7	+	+	shared
+699	HIR3	+	+	shared
+700	AIM44	+	+	shared
+701	PMA1	+	+	shared
+702	PUF4	-	+	424 Only
+703	SWP1	+	+	shared
+704	STE6	+	+	shared
+705	PPX1	+	+	shared
+706	YDR061W	+	-	404 Only
+707	RPB4	-	+	424 Only
+708	PRT1	-	+	424 Only
+709	SSO2	+	+	shared
+710	SAY1	-	+	424 Only
+711	MSN5	+	+	shared
+712	SLA2	-	+	424 Only
+713	HOS4	-	+	424 Only
+714	BNA6	+	+	shared
+715	ECM14	+	+	shared
+716	ERG20	+	+	shared
+717	COR1	+	+	shared
+718	MSS51	+	+	shared
+719	YGR067C	+	+	shared
+720	CSM3	+	+	shared
+721	BFR2	+	-	404 Only
+722	BUD6	+	+	shared
+723	YPT7	-	+	424 Only
+724	BUD4	+	-	404 Only
+725	RRD1	-	+	424 Only
+726	RRD2	-	+	424 Only
+727	INO80	+	+	shared
+728	BTGE	+	-	404 Only
+729	CYR1	+	+	shared
+730	ATP17	+	-	404 Only
+731	RTT10	+	+	shared
+732	EMI5	-	+	424 Only
+733	UTP14	+	+	shared
+734	ADH1	+	+	shared
+735	CBF1	+	-	404 Only
+736	CDC15	-	+	424 Only
+737	PXA1	+	+	shared
+738	PRM1	-	+	424 Only
+739	RPA43	+	-	404 Only
+740	NUD1	+	+	shared
+741	UGO1	+	+	shared
+742	PBY1	-	+	424 Only
+743	RER1	+	-	404 Only
+744	RPS14	+	-	404 Only
+745	SDH1	+	+	shared
+746	TLG2	+	+	shared
+747	RPS19	-	+	424 Only
+748	YLR352W	+	-	404 Only
+749	RPA135	+	-	404 Only
+750	MALTASE	-	+	424 Only
+751	MDL2	+	+	shared
+752	RIX1	+	+	shared
+753	TRM7	-	+	424 Only
+754	SEC20	-	+	424 Only
+755	AVL9	+	+	shared
+756	LOC1	+	+	shared
+757	MLH3	+	-	404 Only
+758	VBA5	-	+	424 Only
+759	SPC1	+	-	404 Only
+760	NAT3	+	+	shared
+761	HOG1	+	+	shared
+762	CSF1	+	+	shared
+763	YSH1	+	+	shared
+764	SMC4	+	+	shared
+765	BCK1	-	+	424 Only
+766	HEM4	-	+	424 Only
+767	YIP3	+	-	404 Only
+768	SST2	+	+	shared
+769	VAB2	+	-	404 Only
+770	YGR237C	+	+	shared
+771	SCW4	-	+	424 Only
+772	PHO4	+	+	shared
+773	YLR456W	+	+	shared
+774	YAT2	+	+	shared
+775	GUD1	-	+	424 Only
+776	SLS1	-	+	424 Only
+777	LEU2	-	+	424 Only
+778	LEU1	+	+	shared
+779	CAC2	-	+	424 Only
+780	SWH1	+	+	shared
+781	CDC14	+	+	shared
+782	UBP2	+	-	404 Only
+783	RSC1	+	+	shared
+784	PDC1	+	+	shared
+785	SET1	+	+	shared
+786	ACF2	-	+	424 Only
+787	GOR1	-	+	424 Only
+788	SLT11	-	+	424 Only
+789	STT4	+	+	shared
+790	PRI1	+	-	404 Only
+791	CSC1	-	+	424 Only
+792	WSC3	+	+	shared
+793	HOS3	-	+	424 Only
+794	BEM3	-	+	424 Only
+795	GIN4	+	+	shared
+796	FET3	+	+	shared
+797	CLA4	+	+	shared
+798	YDR018C	+	+	shared
+799	CDC73	+	+	shared
+800	CCA1	+	+	shared
+801	ALG14	+	-	404 Only
+802	DRE2	+	+	shared
+803	YJR142W	+	+	shared
+804	GYP5	+	+	shared
+805	GUS1	+	+	shared
+806	GYP7	-	+	424 Only
+807	PGI1	+	+	shared
+808	PAN3	-	+	424 Only
+809	UGA3	-	+	424 Only
+810	PDR1	+	+	shared
+811	DUS3	+	+	shared
+812	RPS31	-	+	424 Only
+813	NPR1	+	+	shared
+814	NPR2	-	+	424 Only
+815	YJU2	+	+	shared
+816	SAC1	-	+	424 Only
+817	HXT1	+	+	shared
+818	ALD5	+	+	shared
+819	BUD23	-	+	424 Only
+820	RAM1	-	+	424 Only
+821	RAM2	+	-	404 Only
+822	UBA3	-	+	424 Only
+823	LDH1	+	-	404 Only
+824	KTR3	-	+	424 Only
+825	ARP8	+	+	shared
+826	ARP7	-	+	424 Only
+827	ARP6	+	+	shared
+828	ARP3	+	+	shared
+829	ARP2	+	-	404 Only
+830	UBP16	+	+	shared
+831	RSN1	+	+	shared
+832	SIZ1	+	-	404 Only
+833	ATG32	-	+	424 Only
+834	ATG33	-	+	424 Only
+835	VID28	+	+	shared
+836	IRC21	-	+	424 Only
+837	CLN2	+	+	shared
+838	HXK1	+	+	shared
+839	RAX1	-	+	424 Only
+840	SEH1	+	+	shared
+841	NUP2	+	+	shared
+842	TRZ1	+	+	shared
+843	VPH2	+	-	404 Only
+844	DCD1	+	+	shared
+845	NHX1	+	+	shared
+846	ADH4	+	+	shared
+847	RAD5	+	+	shared
+848	RAD2	-	+	424 Only
+849	SOG2	+	-	404 Only
+850	URH1	+	-	404 Only
+851	PMT6	-	+	424 Only
+852	MRP4	-	+	424 Only
+853	VAN1	+	+	shared
+854	CCT8	+	-	404 Only
+855	BMS1	+	+	shared
+856	LEU4	+	-	404 Only
+857	CCT2	-	+	424 Only
+858	CCT3	+	+	shared
+859	STE50	-	+	424 Only
+860	TFG1	-	+	424 Only
+861	CCT4	+	-	404 Only
+862	KNS1	-	+	424 Only
+863	NDC1	+	+	shared
+864	EXG1	+	-	404 Only
+865	STB3	+	-	404 Only
+866	HOL1	+	+	shared
+867	ABF1	+	-	404 Only
+868	HDA1	+	-	404 Only
+869	RPM2	+	+	shared
+870	RSB1	-	+	424 Only
+871	BRF1	+	+	shared
+872	CIN4	+	-	404 Only
+873	PEP7	+	+	shared
+874	CET1	-	+	424 Only
+875	SWI6	+	-	404 Only
+876	USB1	+	-	404 Only
+877	GLN3	-	+	424 Only
+878	GPX1	+	-	404 Only
+879	MCM6	-	+	424 Only
+880	YOL114C	-	+	424 Only
+881	ILS1	-	+	424 Only
+882	RSC9	+	+	shared
+883	KIN3	-	+	424 Only
+884	VPS25	+	-	404 Only
+885	LOS1	-	+	424 Only
+886	YAK1	+	+	shared
+887	CBK1	+	+	shared
+888	SHP1	+	+	shared
+889	YJL127C-B	-	+	424 Only
+890	SRS2	+	+	shared
+891	CSE4	+	+	shared
+892	TAF10	+	+	shared
+893	CSE1	-	+	424 Only
+894	UFO1	-	+	424 Only
+895	CDC123	+	+	shared
+896	YFR045W	+	+	shared
+897	LSB1	+	+	shared
+898	CDC6	+	+	shared
+899	YKL133C	-	+	424 Only
+900	DOP1	+	-	404 Only
+901	DUS1	-	+	424 Only
+902	BRO1	+	+	shared
+903	MCA1	+	+	shared
+904	MPH1	+	+	shared
+905	HOS2	-	+	424 Only
+906	IKI3	+	+	shared
+907	SQS1	+	+	shared
+908	HCR1	+	-	404 Only
+909	ARG8	+	+	shared
+910	MET16	+	+	shared
+911	MDV1	+	+	shared
+912	TAF5	+	-	404 Only
+913	SET5	-	+	424 Only
+914	YBT1	+	+	shared
+915	DGA1	-	+	424 Only
+916	SET2	+	+	shared
+917	NBA1	+	-	404 Only
+918	RKM4	+	+	shared
+919	YAP1	+	+	shared
+920	POL5	+	+	shared
+921	MRPL15	+	-	404 Only
+922	POL2	+	+	shared
+923	STE11	+	+	shared
+924	GAR1	+	-	404 Only
+925	MUD2	+	+	shared
+926	SFL1	+	-	404 Only
+927	IQG1	-	+	424 Only
+928	UBP12	+	+	shared
+929	RRP7	+	+	shared
+930	ARG2	+	+	shared
+931	SHY1	+	+	shared
+932	LSB5	-	+	424 Only
+933	NGL3	+	-	404 Only
+934	SLN1	+	+	shared
+935	PEP3	+	-	404 Only
+936	ERC1	-	+	424 Only
+937	HMI1	+	+	shared
+938	NTO1	+	-	404 Only
+939	VPS9	+	+	shared
+940	YNL035C	+	-	404 Only
+941	RNR3	-	+	424 Only
+942	GAL10	+	+	shared
+943	GAL11	+	+	shared
+944	AIR2	-	+	424 Only
+945	HSP70	+	+	shared
+946	YNL181W	-	+	424 Only
+947	RKM5	-	+	424 Only
+948	DED1	+	-	404 Only
+949	COP1	+	+	shared
+950	ARO80	+	+	shared
+951	SSU1	+	+	shared
+952	SEC31	+	+	shared
+953	RRT12	-	+	424 Only
+954	HRD3	+	+	shared
+955	PHO11	+	+	shared
+956	SAM37	-	+	424 Only
+957	DBP9	-	+	424 Only
+958	CPD1	+	+	shared
+959	DBP3	-	+	424 Only
+960	DBP6	+	+	shared
+961	DBP7	+	+	shared
+962	YDL144C	+	+	shared
+963	MYO2	+	+	shared
+964	MYO1	+	+	shared
+965	YDR444W	+	+	shared
+966	MSY1	-	+	424 Only
+967	GIP4	-	+	424 Only
+968	AKR1	-	+	424 Only
+969	PKP1	-	+	424 Only
+970	NPP1	+	-	404 Only
+971	EFM3	+	+	shared
+972	ALR1	+	+	shared
+973	MGS1	+	+	shared
+974	PUP3	+	-	404 Only
+975	SLX5	-	+	424 Only
+976	IKI1	+	+	shared
+977	HSH155	+	-	404 Only
+978	IFH1	+	+	shared
+979	YOX1	+	+	shared
+980	TYW1	+	+	shared
+981	YIL001W	+	-	404 Only
+982	MET12	+	-	404 Only
+983	SNU114	-	+	424 Only
+984	DAL81	+	-	404 Only
+985	ELP2	+	+	shared
+986	EAF1	+	-	404 Only
+987	CAF16	-	+	424 Only
+988	CAF17	+	+	shared
+989	RSM19	+	+	shared
+990	PUT4	-	+	424 Only
+991	MSC1	+	+	shared
+992	RTC4	-	+	424 Only
+993	YOR019W	+	+	shared
+994	YML082W	+	+	shared
+995	MSC6	+	-	404 Only
+996	WAR1	-	+	424 Only
+997	YKR051W	+	+	shared
+998	IDP2	+	+	shared
+999	MSG5	-	+	424 Only
+1000	YLR149C	-	+	424 Only
+1001	NMT1	-	+	424 Only
+1002	MKK1	+	+	shared
+1003	STO1	+	-	404 Only
+1004	ALY1	+	+	shared
+1005	ARA1	+	-	404 Only
+1006	RCL1	+	+	shared
+1007	BNA3	+	+	shared
+1008	AFG2	+	+	shared
+1009	FKS1	+	+	shared
+1010	UBC11	-	+	424 Only
+1011	ETT1	+	+	shared
+1012	SPP1	+	+	shared
+1013	PDE2	+	+	shared
+1014	PDE1	+	+	shared
+1015	SPT6	+	+	shared
+1016	YKL107W	-	+	424 Only
+1017	FBP26	-	+	424 Only
+1018	YEL1	+	+	shared
+1019	ALG3	-	+	424 Only
+1020	MRS3/4	+	+	shared
+1021	ALG7	-	+	424 Only
+1022	YSC84	+	+	shared
+1023	ALG5	-	+	424 Only
+1024	ANP1	-	+	424 Only
+1025	LSC2	-	+	424 Only
+1026	LEA1	+	+	shared
+1027	GZF3	-	+	424 Only
+1028	CTR9	+	+	shared
+1029	CHL1	+	-	404 Only
+1030	TUB4	+	+	shared
+1031	HMG1	+	+	shared
+1032	TUB1	-	+	424 Only
+1033	ERG13	+	+	shared
+1034	RDL2	-	+	424 Only
+1035	SRV2	-	+	424 Only
+1036	EXO1	+	-	404 Only
+1037	LCP5	+	+	shared
+1038	BUB1	+	-	404 Only
+1039	EXO5	-	+	424 Only
+1040	FIG4	+	+	shared
+1041	TPD3	-	+	424 Only
+1042	HEM3	+	-	404 Only
+1043	HEM1	-	+	424 Only
+1044	CHS5	+	-	404 Only
+1045	CHS7	+	+	shared
+1046	PAR32	+	+	shared
+1047	CHS3	+	-	404 Only
+1048	YHR131C	+	+	shared
+1049	IST1	+	+	shared
+1050	MAD3	+	+	shared
+1051	NSG1	+	+	shared
+1052	OPT2	+	+	shared
+1053	POP5	+	+	shared
+1054	PEX4	+	+	shared
+1055	RAX2	+	-	404 Only
+1056	STE20	-	+	424 Only
+1057	CAF130	+	-	404 Only
+1058	CHT1	+	+	shared
+1059	ARE1	+	+	shared
+1060	GNP1	+	+	shared
+1061	PDX1	-	+	424 Only
+1062	AVO1	+	-	404 Only
+1063	PSO2	+	+	shared
+1064	BNI4	+	+	shared
+1065	RCK2	+	+	shared
+1066	GDH2	+	+	shared
+1067	RFC5	+	+	shared
+1068	RFC4	+	+	shared
+1069	SGS1	+	+	shared
+1070	ECM16	+	+	shared
+1071	YGL114W	+	+	shared
+1072	ZRT2	-	+	424 Only
+1073	GPR1	+	+	shared
+1074	DCN1	+	+	shared
+1075	YOL057W	+	+	shared
+1076	VHS1	-	+	424 Only
+1077	PSD2	+	+	shared
+1078	CAR2	+	+	shared
+1079	YKR023W	+	+	shared
+1080	LSG1	+	-	404 Only
+1081	CAR1	-	+	424 Only
+1082	QCR2	+	+	shared
+1083	TUP1	-	+	424 Only
+1084	GLK1	+	+	shared
+1085	FIP1	+	-	404 Only
+1086	MTO1	+	+	shared
+1087	SCP1	+	+	shared
+1088	SRP72	-	+	424 Only
+1089	GBP2	+	+	shared
+1090	MCK1	-	+	424 Only
+1091	YKL162C	-	+	424 Only
+1092	RPL27A	-	+	424 Only
+1093	CUE2	+	-	404 Only
+1094	GPI8	-	+	424 Only
+1095	VRG4	-	+	424 Only
+1096	EFM1	+	+	shared
+1097	JLP2	+	-	404 Only
+1098	CHA4	-	+	424 Only
+1099	PHO8	+	+	shared
+1100	TPO1	+	+	shared
+1101	CPS1	+	+	shared
+1102	BDF1	+	+	shared
+1103	RPL16B	-	+	424 Only
+1104	TDA11	+	+	shared
+1105	MER3	+	+	shared
+1106	MRPL6	+	+	shared
+1107	RPN3	+	-	404 Only
+1108	KOG1	+	+	shared
+1109	RAD52	+	-	404 Only
+1110	RAD51	+	+	shared
+1111	RAD50	+	+	shared
+1112	RIA1	+	+	shared
+1113	PTK2	+	+	shared
+1114	WWM1	-	+	424 Only
+1115	MSH1	+	+	shared
+1116	MSH2	+	+	shared
+1117	MSH3	+	+	shared
+1118	MSH4	-	+	424 Only
+1119	APL1	+	-	404 Only
+1120	CDC45	-	+	424 Only
+1121	YGR266W	+	+	shared
+1122	PHO81	-	+	424 Only
+1123	TYW3	-	+	424 Only
+1124	PHO89	+	+	shared
+1125	PBP1	+	+	shared
+1126	DEG1	+	-	404 Only
+1127	ECM25	+	+	shared
+1128	RPH1	+	+	shared
+1129	LIA1	-	+	424 Only
+1130	CRN1	+	+	shared
+1131	ARC15	-	+	424 Only
+1132	SPE4	-	+	424 Only
+1133	PRP45	+	+	shared
+1134	SUN4	+	+	shared
+1135	GYP8	-	+	424 Only
+1136	MED11	+	-	404 Only
+1137	MEK1	+	-	404 Only
+1138	RPN4	-	+	424 Only
+1139	FAS1	-	+	424 Only
+1140	SEC53	-	+	424 Only
+1141	SAN1	+	-	404 Only
+1142	BBC1	+	+	shared
+1143	LSM1	+	-	404 Only
+1144	LSM3	+	+	shared
+1145	CDC25	+	+	shared
+1146	CMK2	+	-	404 Only
+1147	CDC16	-	+	424 Only
+1148	VIP1	+	-	404 Only
+1149	ARC18	+	-	404 Only
+1150	AIM18	+	+	shared
+1151	PPS1	+	+	shared
+1152	NUM1	+	+	shared
+1153	SEC21	-	+	424 Only
+1154	SEC22	+	-	404 Only
+1155	YOR338W	+	+	shared
+1156	ACC1	-	+	424 Only
+1157	SBE22	+	+	shared
+1158	FAR1	-	+	424 Only
+1159	HSF1	+	+	shared
+1160	PET9	-	+	424 Only
+1161	PBP2	-	+	424 Only
+1162	PRO1	-	+	424 Only
+1163	YLR419W	+	+	shared
+1164	ECT1	+	+	shared
+1165	RIM15	+	+	shared
+1166	MNL2	-	+	424 Only
+1167	CWC24	+	-	404 Only
+1168	YEL043W	+	+	shared
+1169	PMT2	+	+	shared
+1170	TRM1	+	+	shared
+1171	TRM2	+	+	shared
+1172	TRM5	+	+	shared
+1173	PKA1	+	+	shared
+1174	AVT6	-	+	424 Only
+1175	MPC2	+	+	shared
+1176	SUR1	-	+	424 Only
+1177	PEX30	+	+	shared
+1178	TUL1	-	+	424 Only
+1179	APT1	+	-	404 Only
+1180	SHM1	+	-	404 Only
+1181	NTE1	+	+	shared
+1182	VTC4	+	+	shared
+1183	MRPL35	+	+	shared
+1184	VTC2	-	+	424 Only
+1185	YPL247C	+	+	shared
+1186	DSK1	+	-	404 Only
+1187	MPP10	+	-	404 Only
+1188	PEX21	+	+	shared
+1189	PUP2	-	+	424 Only
+1190	TDA7	-	+	424 Only
+1191	FPR2	+	+	shared
+1192	FPR4	+	+	shared
+1193	HPT1	+	+	shared
+1194	YJR112W-A	+	+	shared
+1195	ERP1	+	-	404 Only
+1196	EFM4	-	+	424 Only
+1197	GEA2	+	+	shared
+1198	YPR003C	+	+	shared
+1199	ZUO1	+	+	shared
+1200	TIM17	-	+	424 Only
+1201	ENA5	+	+	shared
+1202	FTH1	-	+	424 Only
+1203	BST1	-	+	424 Only
+1204	UPS2	-	+	424 Only
+1205	CUP9	+	+	shared
+1206	DHH1	+	+	shared
+1207	CRR1	-	+	424 Only
+1208	MIR1	+	+	shared
+1209	MPK1	-	+	424 Only
+1210	SCY1	-	+	424 Only
+1211	NRP1	-	+	424 Only
+1212	YDR341C	+	+	shared
+1213	GIP3	+	-	404 Only
+1214	MOG1	-	+	424 Only
+1215	DIP2	+	+	shared
+1216	NOG1	-	+	424 Only
+1217	YML096W	+	+	shared
+1218	YTA7	-	+	424 Only
+1219	PMU1	+	+	shared
+1220	SPE3	-	+	424 Only
+1221	NOP14	+	+	shared
+1222	FMP27	+	+	shared
+1223	RMT2	+	+	shared
+1224	MEP2	+	+	shared
+1225	BCS1	+	-	404 Only
+1226	DOT1	+	-	404 Only
+1227	QDR2	+	+	shared
+1228	FBA1	-	+	424 Only
+1229	SMP3	+	-	404 Only
+1230	YMR295C	+	-	404 Only
+1231	NUP145	-	+	424 Only
+1232	SFP1	+	+	shared
+1233	RPB2	+	-	404 Only
+1234	CLU1	-	+	424 Only
+1235	TLG1	-	+	424 Only
+1236	COY1	+	+	shared
+1237	GDT1	-	+	424 Only
+1238	AAR2	-	+	424 Only
+1239	DAD4	-	+	424 Only
+1240	ATG11	-	+	424 Only
+1241	ATG13	+	+	shared
+1242	POP4	+	-	404 Only
+1243	ECM38	+	+	shared
+1244	ATG18	+	-	404 Only
+1245	FRK1	+	+	shared
+1246	TRS31	-	+	424 Only
+1247	THI6	+	+	shared
+1248	BPH1	+	+	shared
+1249	ERB1	+	+	shared
+1250	EMP47	+	+	shared
+1251	YMR099C	+	-	404 Only
+1252	MRN1	+	+	shared
+1253	DIF1	+	+	shared
+1254	LHS1	-	+	424 Only
+1255	PMT4	+	+	shared
+1256	ART10	-	+	424 Only
+1257	RAD4	+	-	404 Only
+1258	HIS1	-	+	424 Only
+1259	TEL1	+	+	shared
+1260	TEL2	+	+	shared
+1261	FAP7	+	+	shared
+1262	ARP1	+	-	404 Only
+1263	SPT23	+	-	404 Only
+1264	SWT21	+	+	shared
+1265	BCH1	+	+	shared
+1266	NPY1	-	+	424 Only
+1267	ENP2	+	+	shared
+1268	NHA1	+	+	shared
+1269	YVC1	+	+	shared
+1270	YBP1	+	+	shared
+1271	UTH1	-	+	424 Only
+1272	DDC1	+	+	shared
+1273	URA6	-	+	424 Only
+1274	ABD1	-	+	424 Only
+1275	IWR1	+	-	404 Only
+1276	DOA4	-	+	424 Only
+1277	YPR022C	+	-	404 Only
+1278	TFG2	+	+	shared
+1279	IRE1	+	-	404 Only
+1280	TAE1	+	-	404 Only
+1281	EAF3	+	+	shared
+1282	RPC82	+	+	shared
+1283	SPS1	+	+	shared
+1284	DPM1	+	-	404 Only
+1285	SDS22	-	+	424 Only
+1286	HOM6	+	+	shared
+1287	SCS2	-	+	424 Only
+1288	PSK1	-	+	424 Only
+1289	SCS7	-	+	424 Only
+1290	PHO2	+	-	404 Only
+1291	DAM1	+	-	404 Only
+1292	SNL1	+	-	404 Only
+1293	KRE5	+	+	shared
+1294	PUF2	+	+	shared
+1295	SEC2	+	+	shared
+1296	DSD1	+	+	shared
+1297	NMD5	+	+	shared
+1298	JHD2	+	+	shared
+1299	EMC2	+	+	shared
+1300	RHB1	+	+	shared
+1301	MCM10	-	+	424 Only
+1302	CDC11	+	+	shared
+1303	VMA4	-	+	424 Only
+1304	NAT1	+	-	404 Only
+1305	VMA6	+	+	shared
+1306	BNA5	+	+	shared
+1307	BNA4	-	+	424 Only
+1308	PNT1	+	+	shared
+1309	SUV3	-	+	424 Only
+1310	LIP5	+	-	404 Only
+1311	CDA2	+	+	shared
+1312	THI20	+	+	shared
+1313	MCD4	-	+	424 Only
+1314	GEF1	-	+	424 Only
+1315	MCD1	-	+	424 Only
+1316	NUT1	-	+	424 Only
+1317	YGL242C	+	+	shared
+1318	YMR310C	-	+	424 Only
+1319	YSP2	+	+	shared
+1320	OXR1	-	+	424 Only
+1321	MAP1	+	-	404 Only
+1322	GPD1	+	+	shared
+1323	SRP101	-	+	424 Only
+1324	SRP102	-	+	424 Only
+1325	TAF1	+	+	shared
+1326	POG1	+	+	shared
+1327	PAL1	+	+	shared
+1328	ITT1	+	-	404 Only
+1329	LRP1	+	-	404 Only
+1330	SED4	-	+	424 Only
+1331	PAN1	-	+	424 Only
+1332	RDS2	+	-	404 Only
+1333	UTP21	-	+	424 Only
+1334	PAN6	-	+	424 Only
+1335	PAN5	+	-	404 Only
+1336	SET4	+	+	shared
+1337	GPB2	+	+	shared
+1338	RIX7	+	+	shared
+1339	NRG1	+	-	404 Only
+1340	CYS4	-	+	424 Only
+1341	NSP1	+	+	shared
+1342	MNS1	+	+	shared
+1343	MCM7	+	+	shared
+1344	LAA1	+	+	shared
+1345	MCM5	-	+	424 Only
+1346	AVT5	-	+	424 Only
+1347	MCM2	+	-	404 Only
+1348	PUS4	+	+	shared
+1349	YML045W-A	+	+	shared
+1350	HRP1	+	-	404 Only
+1351	YDC1	-	+	424 Only
+1352	RPS22	+	-	404 Only
+1353	ARF	-	+	424 Only
+1354	RTT107	+	-	404 Only
+1355	CTM1	+	-	404 Only
+1356	BRR2	+	+	shared
+1357	VPS33	+	+	shared
+1358	COQ3	+	-	404 Only
+1359	PIK1	+	+	shared
+1360	TRM11	+	+	shared
+1361	RGA1	+	+	shared
+1362	LAT1	+	-	404 Only
+1363	SWI3	+	+	shared
+1364	RLF2	+	-	404 Only
+1365	MEF1	+	+	shared
+1366	MEF2	+	+	shared
+1367	YBR220C	+	+	shared
+1368	ALT1	+	+	shared
+1369	SEC59	+	+	shared
+1370	YML045W-A	-	+	424 Only
+1371	ISC1	-	+	424 Only
+1372	PFS2	-	+	424 Only
+1373	MUM3	-	+	424 Only
+1374	RCY1	+	-	404 Only
+1375	TAD1	+	+	shared
+1376	SPT20	+	+	shared
+1377	MGM1	+	-	404 Only
+1378	BDP1	+	+	shared
+1379	WRS1	-	+	424 Only
+1380	KAP114	+	+	shared
+1381	APE2	+	+	shared
+1382	SOD1	+	+	shared
+1383	KAP95	+	+	shared
+1384	CCT5	+	+	shared
+1385	RIM21	-	+	424 Only
+1386	RIM20	+	+	shared
+1387	SAH1	+	+	shared
+1388	PFA4	+	-	404 Only
+1389	NUC1	+	-	404 Only
+1390	BGL2	+	+	shared
+1391	SEC23	+	-	404 Only
+1392	CTI6	+	+	shared
+1393	CREB	+	-	404 Only
+1394	YJR111C	+	+	shared
+1395	PPM2	+	-	404 Only
+1396	PPM1	+	+	shared
+1397	SUC2	+	-	404 Only
+1398	ERG7	+	-	404 Only
+1399	PET127	+	+	shared
+1400	NRD1	-	+	424 Only
+1401	LAP2	+	-	404 Only
+1402	RPS2	+	-	404 Only
+1403	OXP1	-	+	424 Only
+1404	DAL1	+	-	404 Only
+1405	ARH1	+	-	404 Only
+1406	YMR102C	-	+	424 Only
+1407	HRQ1	-	+	424 Only
+1408	AVT3	+	+	shared
+1409	GUT2	+	+	shared
+1410	RTF1	+	+	shared
+1411	YHR177W	+	-	404 Only
+1412	DCG1	+	+	shared
+1413	SNP1	-	+	424 Only
+1414	DNM1	-	+	424 Only
+1415	IME2	+	+	shared
+1416	PGS1	+	-	404 Only
+1417	RQC2	+	+	shared
+1418	MDL1	+	+	shared
+1419	YNR048W	+	+	shared
+1420	EPO1	+	-	404 Only
+1421	TAO3	+	+	shared
+1422	NMA1	+	-	404 Only
+1423	ATC1	+	-	404 Only
+1424	CPA2	+	+	shared
+1425	APL2	-	+	424 Only
+1426	SFH1	+	+	shared
+1427	APL6	-	+	424 Only
+1428	APL5	-	+	424 Only
+1429	APL4	+	-	404 Only
+1430	UBC12	+	-	404 Only
+1431	IZH2	+	+	shared
+1432	TRK1	+	+	shared
+1433	PNS1	+	+	shared
+1434	FTR1	-	+	424 Only
+1435	LCB3	-	+	424 Only
+1436	SCL1	+	-	404 Only
+1437	RSN1	-	+	424 Only
+1438	HFI1	+	+	shared
+1439	RIM101	+	+	shared
+1440	SGM1	+	+	shared
+1441	RVB2	+	+	shared
+1442	SSL1	-	+	424 Only
+1443	KIN1	+	+	shared
+1444	GET1	+	-	404 Only
+1445	ACS2	-	+	424 Only
+1446	CAF40	-	+	424 Only
+1447	MLP2	+	+	shared
+1448	APN1	+	-	404 Only
+1449	CDC28	-	+	424 Only
+1450	SDC1	+	+	shared
+1451	CDC25	+	+	shared
+1452	SEPARIN	-	+	424 Only
+1453	CDC23	-	+	424 Only
+1454	ZPS1	+	-	404 Only
+1455	ROX3	-	+	424 Only
+1456	RNA14	+	-	404 Only
+1457	BUR1	+	+	shared
+1458	AGP1	-	+	424 Only
+1459	SEC27	+	+	shared
+1460	SRO77	+	+	shared
+1461	MSB1	+	+	shared
+1462	NAP1	+	+	shared
+1463	YDL183C	-	+	424 Only
+1464	YGR125W	+	-	404 Only
+1465	MMT1	+	+	shared
+1466	SNZ1	+	+	shared
+1467	CHC1	+	+	shared
+1468	XYL2	-	+	424 Only
+1469	YOR1	+	+	shared
+1470	KIP1	+	+	shared
+1471	DCR2	+	-	404 Only
+1472	PCS60	-	+	424 Only
+1473	VBA2	-	+	424 Only
+1474	YHC1	+	-	404 Only
+1475	CDC12	-	+	424 Only
+1476	YHR202W	+	-	404 Only
+1477	SPC110	-	+	424 Only
+1478	SYF2	+	-	404 Only
+1479	AEP1	+	+	shared
+1480	DCW1	+	+	shared
+1481	ECM5	+	-	404 Only
+1482	TRS20	-	+	424 Only
+1483	PRD1	+	+	shared
+1484	HCS1	-	+	424 Only
+1485	RGD2	-	+	424 Only
+1486	ASI1	+	-	404 Only
+1487	BSD2	+	+	shared
+1488	GUF1	+	-	404 Only
+1489	KRE9	+	+	shared
+1490	SYF1	-	+	424 Only
+1491	MFALPHA2	+	-	404 Only
+1492	YIA6	-	+	424 Only
+1493	HRR25	-	+	424 Only
+1494	DIM1	+	+	shared
+1495	ODC	-	+	424 Only
+1496	MRM2	-	+	424 Only
+1497	URA2	+	+	shared
+1498	LDB19	-	+	424 Only
+1499	PKH3	+	+	shared
+1500	RIB3	+	+	shared
+1501	FAS2	+	+	shared
+1502	NUP84	+	-	404 Only
+1503	PWP2	-	+	424 Only
+1504	NUP85	-	+	424 Only
+1505	CCS1	+	+	shared
+1506	DIS3	-	+	424 Only
+1507	GLE2	+	+	shared
+1508	IRC19	-	+	424 Only
+1509	RSA4	+	-	404 Only
+1510	MTC4	+	+	shared
+1511	WSC4	-	+	424 Only
+1512	VPS35	+	+	shared
+1513	IMD1	-	+	424 Only
+1514	MTF1	+	+	shared
+1515	ECM22	+	+	shared
+1516	ATX2	+	-	404 Only
+1517	FLD1	-	+	424 Only
+1518	ALA1	+	+	shared
+1519	HMX1	-	+	424 Only
+1520	UTP4	+	+	shared
+1521	RIB4	+	-	404 Only
+1522	GDB1	+	-	404 Only
+1523	TGL3	-	+	424 Only
+1524	PTR2	+	+	shared
+1525	PTR3	+	+	shared
+1526	GRX2	+	+	shared
+1527	CAT2	+	+	shared
+1528	TPO1	-	+	424 Only
+1529	TAL1	+	+	shared
+1530	FMP25	-	+	424 Only
+1531	YJU3	+	-	404 Only
+1532	BOR1	+	+	shared
+1533	SGO1	+	-	404 Only
+1534	VMA13	+	+	shared
+1535	SPT23	+	+	shared
+1536	DUF1	+	+	shared
+1537	RPA190	+	+	shared
+1538	MIDASIN	+	+	shared
+1539	ADE13	+	+	shared
+1540	LTV1	+	+	shared
+1541	CYK3	-	+	424 Only
+1542	MIC26	-	+	424 Only
+1543	YOL075C	+	-	404 Only
+1544	ORC2	-	+	424 Only
+1545	LOT5	-	+	424 Only
+1546	ORC1	-	+	424 Only
+1547	MNL1	+	+	shared
+1548	CTF8	+	+	shared
+1549	ELP4	-	+	424 Only
+1550	DAPB	-	+	424 Only
+1551	GDE1	+	-	404 Only
+1552	SUB2	+	-	404 Only
+1553	MZM1	-	+	424 Only
+1554	DSC3	+	-	404 Only
+1555	SNF2	+	+	shared
+1556	XYL1	+	-	404 Only
+1557	MDJ2	-	+	424 Only
+1558	DHR2	+	-	404 Only
+1559	MVD1	+	-	404 Only
+1560	CWH41	+	+	shared
+1561	DAL3	+	-	404 Only
+1562	RTT106	+	-	404 Only
+1563	MRP51	+	-	404 Only
